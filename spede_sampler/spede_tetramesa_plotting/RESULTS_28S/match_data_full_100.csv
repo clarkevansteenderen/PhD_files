@@ -1,0 +1,10 @@
+filename,percentage_match,percentage_match_excl_singles,percentage_single_sample_GMYC_species,oversplitting_ratio,oversplitting_excl_singles
+resampled_1.nex,50,37.5,20,0.71,0.57
+resampled_2.nex,50,40,16.67,0.43,0.36
+resampled_3.nex,40,25,20,0.36,0.29
+resampled_5.nex,62.5,57.14,12.5,0.57,0.5
+resampled_6.nex,66.67,50,33.33,0.21,0.14
+resampled_7.nex,66.67,50,33.33,0.21,0.14
+resampled_8.nex,50,33.33,25,0.29,0.21
+resampled_9.nex,42.86,38.46,7.14,1,0.93
+resampled_10.nex,40,33.33,10,0.71,0.64
