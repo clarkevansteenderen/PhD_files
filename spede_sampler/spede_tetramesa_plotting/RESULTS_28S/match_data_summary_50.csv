@@ -1,0 +1,5 @@
+"statistic","percentage_matches","percentage_matches_excl_single_samples","percentage_single_sample_GMYC_species","oversplitting_ratio","oversplitting_ratio_excl_single_sample_spp"
+"Average",54.87,27.33,34.6,0.33,0.23
+"Standard deviation",8.34,19.93,16.81,0.14,0.14
+"Minimum",42.86,0,14.29,0.14,0.07
+"Maximum",66.67,50,66.67,0.57,0.43
