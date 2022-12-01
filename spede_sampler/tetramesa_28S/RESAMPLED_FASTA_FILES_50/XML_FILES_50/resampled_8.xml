@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.4">
+
+
+    <data
+id="resampled_8"
+name="alignment">
+                    <sequence id="seq_GFS_2019_00019" taxon="GFS_2019_00019" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00015" taxon="GFS_2020_00015" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00055" taxon="GFS_2020_00055" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaaaagaactttgaagagagag-ttc-aag-agtacgttgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtaaggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00086" taxon="GFS_2020_00086" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00087" taxon="GFS_2020_00087" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00102" taxon="GFS_2020_00102" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00116" taxon="GFS_2020_00116" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacgttgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00614" taxon="GFS_2020_00614" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggaccnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2020_00680" taxon="GFS_2020_00680" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00329" taxon="GFS_2021_00329" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgaagagagag-tttcaag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00354" taxon="GFS_2021_00354" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00730" taxon="GFS_2021_00730" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttcaaga-agtacgttgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgnnnnnnnnnnnnnnnnnnn---------nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00773" taxon="GFS_2021_00773" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcnnnnnnnnnnnnnnnnn---------nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00805" taxon="GFS_2021_00805" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaagggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tgctgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00887" taxon="GFS_2021_00887" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_2021_00901" taxon="GFS_2021_00901" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tagtgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1080F" taxon="GFS_PHI_1080F" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggtcccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1101F" taxon="GFS_PHI_1101F" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1101M" taxon="GFS_PHI_1101M" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgtcaacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tagtgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1132" taxon="GFS_PHI_1132" totalcount="4" value="nnnnnnnnnngaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1196F" taxon="GFS_PHI_1196F" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1232F" taxon="GFS_PHI_1232F" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggtcccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1238M" taxon="GFS_PHI_1238M" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1447" taxon="GFS_PHI_1447" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_GFS_PHI_1447M" taxon="GFS_PHI_1447M" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtggttttcgcgatgtcgcgggatttcggttccgtggcacgctgccactgc-ggcatgtcggacg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtagactgccgcgtcgcgttaacgcgcgctcacgtggcagacctacggtgttctcccggcc-tactgcccggcggtatggaacgct--tc-aattggtatcgagccg--cacattgc---gtgcgttctggctcctcggcaggctcgtcccgctcgga--tttacggacctagcgccgttgnnnnnn--nnnnnnnnnnnnnnnn-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn---------nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2011_00173" taxon="KCP_2011_00173" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnagagag-ttc-aagaagtacgttgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaagggggagattcatcgtcagcgg-cgtttgcttccgtgtgg-cttcgcgatgacgcgggactttggttccgcggcacgctgccgctgc-ggtatgtcagacg-tcgtcggtgtgcacttctcctctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--ttccggccttactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctccccggcaggctcgtcccgcccgga--tttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2012_00170" taxon="KCP_2012_00170" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn-nnn-nnn-nnnnnn-nnnnnnnnnnnnnnggtaaacctgagaaa-cccgaaagatcgaagggggagattcatcgtcagcgg-cgtttgcttccgtgtgg-cttcgcgatgacgcgggactttggttccgcggcacgctgccgctgc-ggtatgtcagacg-tcgtcggtgtgcacttctcctctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--ttccggccttactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctccccggcaggctcgtcccgcccgga--tttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2012_00172" taxon="KCP_2012_00172" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnagagag-ttc-aag-agtacgttgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgtcagcgg-cgtttgcttccgtgtgg-cttcgcgatgacgcgggactttggttccgcggcacgctgccgctgc-ggtatgtcagacg-tcgtcggtgtgcacttctcctctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--ttccggccttactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctccccggcaggctcgtcccgcccgga--tttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00019" taxon="KCP_2020_00019" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaagagagag-ttc-aag-agtacgttgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgccctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00036" taxon="KCP_2020_00036" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctcctgctttgggtactttnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00045" taxon="KCP_2020_00045" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00061" taxon="KCP_2020_00061" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00062" taxon="KCP_2020_00062" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00092" taxon="KCP_2020_00092" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tgctgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacccagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00177" taxon="KCP_2020_00177" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00201" taxon="KCP_2020_00201" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00207" taxon="KCP_2020_00207" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00217" taxon="KCP_2020_00217" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00238" taxon="KCP_2020_00238" totalcount="4" value="nnnnnnnngagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtcttnnnnnnnnn"/>
+                    <sequence id="seq_KCP_2020_00239" taxon="KCP_2020_00239" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                    <sequence id="seq_LMY_2021_00117" taxon="LMY_2021_00117" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-tttcgcgatgtcgcgggactttggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_LMY_2022_00008" taxon="LMY_2022_00008" totalcount="4" value="nnnaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_LMY_2022_00098" taxon="LMY_2022_00098" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttnnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_LMY_2022_00108" taxon="LMY_2022_00108" totalcount="4" value="atgaccacgagaccgatagcgaacaagtaccgtgagggaaagttgaaaagaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcagacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcaggnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_SPY_KZN_060" taxon="SPY_KZN_060" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgccagcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgacgctactgctttgggtactttcnnnnnnnnnnnnnnnnnnnnn"/>
+                    <sequence id="seq_SPY_LMP_032" taxon="SPY_LMP_032" totalcount="4" value="nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttgaagagagag-ttc-aag-agtacg-tgaaaccgttcaggggtaaacctgagaaa-cccgaaagatcgaatggggagattcatcgcc-gcgg-cgtttgcttccgtgtgg-ttttgcgatgtcgcgggacttcggttccgaggcacgctgccgctgc-ggtatgtcaggcg-tcgtcggtgtgcacttctcccctagtaggacgtcgcgacccgttgggtgtaggcctacggcccgtacggtcgactgttgcgtcgcgttcacgcgcgttcacgtggcaaacctacggtgt--tcccggcc-tactgcccggcggtatggaacgat--tc-aattggtatcgagccg--cacactgc---gtgcgttctggctcctcggcaggctcgtcccgcccgga-ttttacggacctagcgccgttgccgggt--gctcgacgcggccgct-cagccggggatgtcctcgaacgggctctttc---------gaaaggataccggtcggcgatgctactgctttgggtactttcaggacccgtnnnnnnnnnnnn"/>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="10000000" storeEvery="1000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:resampled_8" name="stateNode">
+            <taxonset id="TaxonSet.resampled_8" spec="TaxonSet">
+                <alignment idref="resampled_8"/>
+            </taxonset>
+        </tree>
+        <parameter id="rateAC.s:resampled_8" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateAG.s:resampled_8" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateAT.s:resampled_8" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateCG.s:resampled_8" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="rateGT.s:resampled_8" lower="0.0" name="stateNode">1.0</parameter>
+        <parameter id="freqParameter.s:resampled_8" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+        <parameter id="birthRate.t:resampled_8" name="stateNode">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:resampled_8" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:resampled_8" taxa="@resampled_8">
+        <populationModel id="ConstantPopulation0.t:resampled_8" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:resampled_8" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="YuleModel.t:resampled_8" spec="beast.evolution.speciation.YuleModel" birthDiffRate="@birthRate.t:resampled_8" tree="@Tree.t:resampled_8"/>
+            <prior id="YuleBirthRatePrior.t:resampled_8" name="distribution" x="@birthRate.t:resampled_8">
+                <Uniform id="Uniform.100" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="RateACPrior.s:resampled_8" name="distribution" x="@rateAC.s:resampled_8">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.0" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.1" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateAGPrior.s:resampled_8" name="distribution" x="@rateAG.s:resampled_8">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.2" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.3" estimate="false" name="beta">20.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateATPrior.s:resampled_8" name="distribution" x="@rateAT.s:resampled_8">
+                <Gamma id="Gamma.2" name="distr">
+                    <parameter id="RealParameter.4" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.5" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateCGPrior.s:resampled_8" name="distribution" x="@rateCG.s:resampled_8">
+                <Gamma id="Gamma.3" name="distr">
+                    <parameter id="RealParameter.6" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.7" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateGTPrior.s:resampled_8" name="distribution" x="@rateGT.s:resampled_8">
+                <Gamma id="Gamma.4" name="distr">
+                    <parameter id="RealParameter.8" estimate="false" name="alpha">0.05</parameter>
+                    <parameter id="RealParameter.9" estimate="false" name="beta">10.0</parameter>
+                </Gamma>
+            </prior>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.resampled_8" spec="ThreadedTreeLikelihood" data="@resampled_8" tree="@Tree.t:resampled_8">
+                <siteModel id="SiteModel.s:resampled_8" spec="SiteModel">
+                    <parameter id="mutationRate.s:resampled_8" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="gammaShape.s:resampled_8" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:resampled_8" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="gtr.s:resampled_8" spec="GTR" rateAC="@rateAC.s:resampled_8" rateAG="@rateAG.s:resampled_8" rateAT="@rateAT.s:resampled_8" rateCG="@rateCG.s:resampled_8" rateGT="@rateGT.s:resampled_8">
+                        <parameter id="rateCT.s:resampled_8" estimate="false" lower="0.0" name="rateCT">1.0</parameter>
+                        <frequencies id="estimatedFreqs.s:resampled_8" spec="Frequencies" frequencies="@freqParameter.s:resampled_8"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="StrictClock.c:resampled_8" spec="beast.evolution.branchratemodel.StrictClockModel">
+                    <parameter id="clockRate.c:resampled_8" estimate="false" name="clock.rate">1</parameter>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="YuleBirthRateScaler.t:resampled_8" spec="ScaleOperator" parameter="@birthRate.t:resampled_8" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="YuleModelTreeScaler.t:resampled_8" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:resampled_8" weight="3.0"/>
+
+    <operator id="YuleModelTreeRootScaler.t:resampled_8" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:resampled_8" weight="3.0"/>
+
+    <operator id="YuleModelUniformOperator.t:resampled_8" spec="Uniform" tree="@Tree.t:resampled_8" weight="30.0"/>
+
+    <operator id="YuleModelSubtreeSlide.t:resampled_8" spec="SubtreeSlide" tree="@Tree.t:resampled_8" weight="15.0"/>
+
+    <operator id="YuleModelNarrow.t:resampled_8" spec="Exchange" tree="@Tree.t:resampled_8" weight="15.0"/>
+
+    <operator id="YuleModelWide.t:resampled_8" spec="Exchange" isNarrow="false" tree="@Tree.t:resampled_8" weight="3.0"/>
+
+    <operator id="YuleModelWilsonBalding.t:resampled_8" spec="WilsonBalding" tree="@Tree.t:resampled_8" weight="3.0"/>
+
+    <operator id="RateACScaler.s:resampled_8" spec="ScaleOperator" parameter="@rateAC.s:resampled_8" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateAGScaler.s:resampled_8" spec="ScaleOperator" parameter="@rateAG.s:resampled_8" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateATScaler.s:resampled_8" spec="ScaleOperator" parameter="@rateAT.s:resampled_8" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateCGScaler.s:resampled_8" spec="ScaleOperator" parameter="@rateCG.s:resampled_8" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="RateGTScaler.s:resampled_8" spec="ScaleOperator" parameter="@rateGT.s:resampled_8" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="FrequenciesExchanger.s:resampled_8" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:resampled_8"/>
+    </operator>
+
+    <logger id="tracelog" fileName="resampled_8.log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.resampled_8"/>
+        <log id="TreeHeight.t:resampled_8" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:resampled_8"/>
+        <log idref="rateAC.s:resampled_8"/>
+        <log idref="rateAG.s:resampled_8"/>
+        <log idref="rateAT.s:resampled_8"/>
+        <log idref="rateCG.s:resampled_8"/>
+        <log idref="rateGT.s:resampled_8"/>
+        <log idref="freqParameter.s:resampled_8"/>
+        <log idref="YuleModel.t:resampled_8"/>
+        <log idref="birthRate.t:resampled_8"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="1000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:resampled_8" fileName="$(tree).trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:resampled_8" spec="beast.evolution.tree.TreeWithMetaDataLogger" tree="@Tree.t:resampled_8"/>
+    </logger>
+
+</run>
+
+</beast>
