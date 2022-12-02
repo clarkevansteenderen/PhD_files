@@ -1,0 +1,261 @@
+# Most supported partition found by simple heuristic search
+Species 1 (support = 1.000)
+     AY317232
+
+Species 2 (support = 1.000)
+     AY317239
+
+Species 3 (support = 0.973)
+     GFS_PHI_1052F,GFS_PHI_1201F
+
+Species 4 (support = 1.000)
+     MH878935Bruchophagus_sp_2
+
+Species 5 (support = 1.000)
+     MH878926Bruchophagus_sp
+
+Species 6 (support = 1.000)
+     AY317226
+
+Species 7 (support = 1.000)
+     KCP_2020_00219
+
+Species 8 (support = 1.000)
+     AY317236
+
+Species 9 (support = 1.000)
+     AY317225
+
+Species 10 (support = 0.566)
+     GMGMT1030_20,OPPEC4539_17,KR408765,MG344135,MG344033,MG339825,MG335372,MG339505,KR405666,KR402173,MG340113,MG334647
+
+Species 11 (support = 0.810)
+     KCP_2020_00075,KCP_2020_00076,KCP_2020_00077,KCP_2020_00079,KCP_2020_00089,KCP_2020_00096
+
+Species 12 (support = 0.729)
+     KR416842,OPPFM1893_17,OPPFM3406_17,OPPFM520_17,KU496847,MF903065,KR800436,KR799792
+
+Species 13 (support = 0.806)
+     AMTPA706_15,AMTPA707_15,AMTPB1039_15,AMTPB1043_15
+
+Species 14 (support = 1.000)
+     AY317227
+
+Species 15 (support = 1.000)
+     GFS_PHI_1164F
+
+Species 16 (support = 1.000)
+     GFS_PHI_1101M
+
+Species 17 (support = 1.000)
+     GFS_2021_00901
+
+Species 18 (support = 0.477)
+     GFS_2021_00750,GFS_2021_00770,GFS_2021_00894,KCP_2020_00213,GFS_2021_00806,KCP_2020_00175,GFS_2021_00749,KCP_2020_00184,KCP_2020_00241,KCP_2020_00243,GFS_2019_00063,GFS_2021_00726
+
+Species 19 (support = 1.000)
+     JQ756607Bruchophagus_caucasicus
+
+Species 20 (support = 1.000)
+     AY317223
+
+Species 21 (support = 0.695)
+     KC960021Bruchophagus_gibbus,MG340126Bruchophagus_gibbus
+
+Species 22 (support = 1.000)
+     AY317229
+
+Species 23 (support = 0.842)
+     KCP_2011_00169,KCP_2011_00173,KCP_2012_00170,KCP_2012_00172
+
+Species 24 (support = 1.000)
+     GFS_PHI_1036
+
+Species 25 (support = 0.973)
+     GFS_2021_00746,GFS_2021_00786
+
+Species 26 (support = 1.000)
+     GFS_2021_00741
+
+Species 27 (support = 0.602)
+     LMY_2022_00139,KCP_2020_00092
+
+Species 28 (support = 0.865)
+     GFS_PHI_1132M,GFS_PHI_1132,GFS_PHI_1416F
+
+Species 29 (support = 0.644)
+     KCP_2020_00194,KCP_2020_00217,KCP_2020_00012,KCP_2020_00019,KCP_2020_00032
+
+Species 30 (support = 1.000)
+     GFS_2021_00887
+
+Species 31 (support = 0.816)
+     GFS_2020_00528,GFS_2020_00555,GFS_2020_00720
+
+Species 32 (support = 0.974)
+     GFS_PHI_1096M,GFS_PHI_1040F
+
+Species 33 (support = 1.000)
+     GFS_PHI_1200F
+
+Species 34 (support = 1.000)
+     AY317231
+
+Species 35 (support = 1.000)
+     AY317230
+
+Species 36 (support = 0.519)
+     GFS_2019_00043
+
+Species 37 (support = 0.519)
+     GFS_2020_00606
+
+Species 38 (support = 0.519)
+     GFS_2019_00030
+
+Species 39 (support = 0.455)
+     GFS_2021_00307,GFS_2021_00334,GFS_2021_00411
+
+Species 40 (support = 0.526)
+     GFS_PHI_1078F
+
+Species 41 (support = 0.447)
+     GFS_PHI_1238F,GFS_PHI_1436_1,LMY_2021_00110,LMY_2021_00125,LMY_2021_00300,GFS_2020_00120,GFS_2020_00196,GFS_2021_00374,KCP_2020_00037,KCP_2020_00039,KCP_2020_00047,KCP_2020_00054,KCP_2020_00063
+
+Species 42 (support = 0.577)
+     KCP_2020_00041
+
+Species 43 (support = 0.739)
+     GFS_PHI_1436_3,LMY_2021_00287,GFS_2020_00079,GFS_2020_00083,GFS_2020_00111,GFS_2020_00595,GFS_2020_00085,GFS_2020_00132,GFS_2020_00562,GFS_2020_00638,GFS_2021_00255,KCP_2020_00040,KCP_2020_00090
+
+Species 44 (support = 0.607)
+     GFS_PHI_1189M,GFS_PHI_1419F,KCP_2020_00185,KCP_2020_00235,GFS_2021_00886,GFS_PHI_1447M,KCP_2020_00140
+
+Species 45 (support = 1.000)
+     KCP_2020_00085
+
+Species 46 (support = 0.957)
+     KCP_2020_00242,KCP_2020_00245
+
+Species 47 (support = 1.000)
+     LMY_2021_00231
+
+Species 48 (support = 0.812)
+     LMY_2021_00197,KCP_2020_00238,KCP_2020_00061,KCP_2020_00239,KCP_2020_00036,KCP_2020_00044,KCP_2020_00045,KCP_2020_00052
+
+Species 49 (support = 0.845)
+     KCP_2020_00199,KCP_2020_00201,KCP_2020_00207
+
+Species 50 (support = 0.959)
+     KCP_2020_00048,KCP_2020_00055,KCP_2020_00062
+
+Species 51 (support = 0.949)
+     GFS_PHI_1007,GFS_PHI_1028F,GFS_PHI_1080F,GFS_PHI_1205F,GFS_PHI_1447,GFS_PHI_1232F
+
+Species 52 (support = 0.981)
+     GFS_2021_00745,GFS_2021_00918
+
+Species 53 (support = 0.999)
+     AMTPA1154_15
+
+Species 54 (support = 0.999)
+     AMTPB151_15
+
+Species 55 (support = 0.991)
+     GFS_2021_00805
+
+Species 56 (support = 0.991)
+     GFS_2021_00762
+
+Species 57 (support = 0.699)
+     GFS_PHI_1196F,GFS_PHI_1196M,GFS_PHI_1238M,GFS_2021_00730,GFS_2021_00773,GFS_2021_00810,GFS_2021_00846,GFS_2021_00883,GFS_2021_00902
+
+Species 58 (support = 0.501)
+     LMY_2022_00008,LMY_2022_00152,LMY_2022_00090,LMY_2022_00098,LMY_2022_00108
+
+Species 59 (support = 0.821)
+     AMTPA462_15,AMTPA898_15,AMTPA899_15,AMTPB1252_15,AMTPB1254_15
+
+Species 60 (support = 0.998)
+     AMTPA674_15
+
+Species 61 (support = 0.337)
+     GFS_2020_00053,GFS_2020_00116,GFS_2020_00152,GFS_2020_00043
+
+Species 62 (support = 0.336)
+     SPY_KZN_064
+
+Species 63 (support = 0.324)
+     CVS0002
+
+Species 64 (support = 0.320)
+     SPY_KZN_060
+
+Species 65 (support = 0.997)
+     GFS_PHI_1190F
+
+Species 66 (support = 0.945)
+     SPY_KZN_071,SPY_KZN_062
+
+Species 67 (support = 0.989)
+     GFS_PHI_1096F
+
+Species 68 (support = 0.973)
+     GFS_PHI_1436_2
+
+Species 69 (support = 0.960)
+     GFS_2020_00054
+
+Species 70 (support = 0.960)
+     GFS_2020_062
+
+Species 71 (support = 0.317)
+     SPY_KZN_068
+
+Species 72 (support = 0.317)
+     SPY_LMP_032
+
+Species 73 (support = 0.936)
+     LMY_2021_00220
+
+Species 74 (support = 0.666)
+     GFS_2021_00329,GFS_PHI_1027_1,GFS_PHI_1027_2,LMY_2021_00117,LMY_2021_00308,GFS_2019_00019,GFS_2019_00035,GFS_2019_00039,GFS_2019_00041,GFS_2020_00102,GFS_2020_00233,GFS_2020_00184,GFS_2020_0003,GFS_2019_00069,GFS_2019_00079,GFS_2020_00015,GFS_2020_00055,GFS_2020_00091,GFS_2020_00130,GFS_2020_00155,GFS_2020_00614,GFS_2020_00087,GFS_2021_00245,GFS_2021_00354,GFS_2021_00373
+
+Species 75 (support = 0.866)
+     KCP_2020_00177,KCP_2020_00178
+
+Species 76 (support = 0.526)
+     GFS_2020_00492,GFS_2020_00680
+
+Species 77 (support = 0.901)
+     GFS_2020_00554
+
+Species 78 (support = 0.879)
+     Z01A
+
+Species 79 (support = 0.879)
+     Z01B
+
+Species 80 (support = 0.351)
+     LMY_2021_00289
+
+Species 81 (support = 0.351)
+     LMY_2021_00282
+
+Species 82 (support = 0.506)
+     GFS_2020_00563,GFS_2020_00626,GFS_2020_00576
+
+Species 83 (support = 0.643)
+     GFS_2020_00702
+
+Species 84 (support = 0.322)
+     GMGMP2393_18
+
+Species 85 (support = 0.322)
+     GMGMP7221_18
+
+Species 86 (support = 0.507)
+     GFS_2020_00574
+
+Species 87 (support = 0.507)
+     GFS_2020_00645
