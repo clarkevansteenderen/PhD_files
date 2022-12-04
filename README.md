@@ -6,6 +6,8 @@ This GitHub repository serves as supplementary material to my PhD thesis, entitl
 
 Department of Zoology and Entomology, Centre for Biological Control, Rhodes University, Grahamstown, South Africa
 
+<img src="https://github.com/clarkevansteenderen/PhD_files/tetramesa.png" height = 120>
+
 ## Instructions :pen:
 
 Download the repository, unzip the folder, and open the R project **"PhD_curated_code"**. The R script **"data_analyses"** contains all the code used for the analyses used in my thesis. The PopArt folders contain the input files for haplotype networks in the PopArt program, for both the COI and 28S data, and the folder containing other species delimitation results are the output files from the ABGD, ASAP, PTP, bPTP, and Haplowebs (COI only).
