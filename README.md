@@ -6,6 +6,9 @@ This GitHub repository serves as supplementary material to my PhD thesis, entitl
 
 Department of Zoology and Entomology, Centre for Biological Control, Rhodes University, Grahamstown, South Africa
 
+<img src="https://github.com/clarkevansteenderen/PhD_files/blob/main/rhodes_logo.png" height = 120>
+<img src="https://github.com/clarkevansteenderen/PhD_files/blob/main/cbc.png" height = 120>
+
 <img src="https://github.com/clarkevansteenderen/PhD_files/blob/main/tetramesa.png" height = 120>
 
 ## Instructions :pen:
