@@ -1,4 +1,4 @@
-# PhD Supplementary Files
+# PhD Supplementary Files: *Tetramesa* phylogenetics
 
 This GitHub repository serves as supplementary material to my PhD thesis, entitled:
 
