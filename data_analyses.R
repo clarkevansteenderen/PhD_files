@@ -1639,3 +1639,41 @@ ggsave("./curvula_invaded_range.png", plot = map_combo,
        dpi = 600,
        height = 10,
        width = 10)
+
+
+##################################################################################
+# SAMPLE SUMMARY BAR PLOT
+##################################################################################
+
+source.mods$host = as.factor(source.mods$host)
+source.mods$province = as.factor(source.mods$province)
+
+sample_summary = source.mods %>% 
+  dplyr::filter(coi == TRUE | x28s == TRUE) %>% 
+  dplyr::count(host, province)
+
+nrow( source.mods %>% 
+        dplyr::filter(coi == TRUE) )
+
+nrow( source.mods %>% 
+        dplyr::filter(x28s == TRUE) )
+
+sample_summary
+
+sum(sample_summary$n)
+
+ggplot(sample_summary, aes(fill=province, y=n, x=host, label = n)) + 
+  geom_bar(position="stack", stat="identity", colour = "black")  + 
+  theme_bw() +
+  #scale_fill_manual(values = c("skyblue", "lightyellow", "lightgreen", "orange", "purple", "plum1", "black") ) +
+  scale_fill_brewer(palette="Set3") +
+  geom_text(size = 3, position = position_stack(vjust = 0.5)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+  theme(axis.text.y = element_text( face = "italic") ) +
+  theme(axis.title.y = element_text(margin = margin(r = 20), size = 14) ) +
+  theme(axis.title.x = element_text(margin = margin(t = 20), size = 14) ) +
+  coord_flip() +
+  xlab("Host grass") +
+  ylab("Number of wasps collected") +
+  guides(fill=guide_legend(title="Province")) +
+  theme(legend.position="bottom")
