@@ -36,6 +36,13 @@
 
 ###################################################################################################
 
+###################################################################################################
+# MISCELLANEOUS
+###################################################################################################
+# PART 8: MAPS:
+# (1) TETRAMESA SPECIES DESCRIPTIONS GLOBALLY
+# (2) GRASS DISTRIBUTIONS IN NATIVE AND INVADED RANGES
+
 # **************************************************
 # **************************************************
 
@@ -62,6 +69,10 @@ library(janitor)
 library(ggrepel)
 library(gridExtra)
 library(readxl)
+library(tidyverse)
+library(tidyr)
+library(splitstackshape)
+library(cowplot)
 
 ##############################################################################################
 ##############################################################################################
@@ -1281,3 +1292,350 @@ combo_plots_28S = gridExtra::grid.arrange(clust_accum,
 # SAVE THE OUTPUT
 
 ggsave(plot = combo_plots_28S, width = 25, height = 35, dpi = 350, filename = "combo_plots_28S.svg", units = "cm")
+
+
+##############################################################################################
+##############################################################################################
+##############################################################################################
+# PART 8: MAP PLOTTING
+##############################################################################################
+##############################################################################################
+##############################################################################################
+# (1)
+##############################################################################################
+# Plot the global species description effort of the Tetramesa
+# Thanks to Guy Sutton for the code that has been adapted below, and for the input file
+##############################################################################################
+
+theme_set(theme_classic() +
+            theme(panel.border = element_rect(colour = "black", fill = NA),
+                  axis.text = element_text(colour = "black"),
+                  axis.title.x = element_text(margin = unit(c(2, 0, 0, 0), "mm")),
+                  axis.title.y = element_text(margin = unit(c(0, 4, 0, 0), "mm")),
+                  legend.position = "none"))
+
+# Load data
+raw_data <- readxl::read_xlsx("maps/tetramesa_inventory_global.xlsx")
+
+# Split the countries column into many columns (1 country per column)
+countries_data <- splitstackshape::cSplit(raw_data, 
+                         'countries_recorded', 
+                         sep = ",", 
+                         fixed = FALSE)
+
+# Now reshape into long format
+countries_long <- countries_data %>%
+  pivot_longer(
+    # cols = which columns do we want to pivot/move
+    cols = starts_with("countries_recorded_"),
+    # names_to = new column name that the names of cols above will be
+    # moved to. This effectively creates your categorical
+    # factor levels
+    names_to = "country",
+    # values_to = new column where the row values of cols will be stored
+    values_to = "country_present")
+
+
+# Count number of known Tetramesa species per country
+tetra_dist_sum <- countries_long %>%
+  drop_na(country_present) %>%
+  summarise(no_rows = n()) 
+tetra_dist_sum
+
+tetra_dist_sum <- countries_long %>%
+  drop_na(country_present) %>%
+  dplyr::group_by(country_present) %>%
+  dplyr::count()
+tetra_dist_sum
+
+# Load a world map 
+# Load required libraries
+library(sp)
+library(sf)
+library(raster)
+library(rasterVis)
+library(maptools)
+library(dismo)
+library(raster)
+library(rgeos)
+library(rJava)
+library(rgdal)
+library(geosphere)
+library(scales)
+library(maptools)
+library(mapdata)
+library(spThin)
+library(ENMeval)
+library(plyr)
+library(grid)
+library(gridSVG)
+library(ggspatial)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(viridis)
+
+# load up the world map
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+tetra_dist = tetra_dist_sum
+tetra_dist$name = tetra_dist$country_present
+
+tetra_dist = tetra_dist %>%
+  dplyr::mutate(name = recode(name, USA = 'United States',
+                                         PRC = "China",
+                                         USSR = "Russia"))
+
+
+world_data <- full_join(world, tetra_dist, by = "name")
+
+world_data <- world_data %>%
+  mutate(no_rows = as.numeric(n))
+
+# Set the theme for the plot 
+theme_opts<-list(theme(panel.grid.minor = element_blank(),
+                       panel.grid.major = element_blank(),
+                       panel.background = element_rect(fill = 'white', colour = NA),
+                       plot.background = element_rect(),
+                       axis.line = element_blank(),
+                       axis.text.x = element_text(colour = "black"),
+                       axis.text.y = element_text(colour = "black"),
+                       axis.ticks = element_line(colour = "black"),
+                       axis.title.x = element_text(colour = "black"),
+                       axis.title.y = element_text(colour = "black"),
+                       plot.title = element_text(colour = "black"),
+                       panel.border = element_rect(fill = NA),
+                       legend.key=element_blank()))
+
+# Set 0 to NA
+world_data$no_rows[world_data$no_rows == 0] <- NA
+
+############################################################################
+# PLOT THE WORLD MAP WITH THE NUMBER OF SPECIES DESCRIPTIONS
+############################################################################
+
+p <- ggplot(data = world) +
+  geom_sf() +
+  geom_sf(data = world_data, aes(fill = n)) +
+  scale_fill_gradientn(colours = colorspace::heat_hcl(n=7, alpha = 0.5), na.value = "white") +
+  labs(fill = "No. of species per country") + 
+  coord_sf(xlim = c(-180, 180), 
+           ylim = c(-90, 90), 
+           crs = 4326, 
+           expand = FALSE) +
+  theme_opts +
+  guides(fill = guide_colorbar(ticks = FALSE),
+         colour = guide_legend(order = 1))
+
+p + theme(legend.position = "bottom")
+
+# colour the sampling effort
+p + scale_fill_gradient(low="lightblue", high="red", na.value = "white") + theme(legend.position = "bottom")
+
+
+############################################################################
+############################################################################
+# PLOT DISTRIBUTION MAPS OF GRASS SPECIES IN THE NATIVE AND INVADED RANGES
+############################################################################
+############################################################################
+
+# (2)
+
+# Load required packages
+if (!require("pacman"))
+  install.packages("pacman")
+pacman::p_load(
+  tidyverse,
+  dismo,
+  raster,
+  here,
+  corrplot,
+  Hmisc,
+  patchwork,
+  ecospat,
+  kuenm,
+  gridSVG,
+  gridExtra,
+  grid,
+  ENMeval,
+  spThin,
+  viridis,
+  viridisLite,
+  mapdata,
+  maptools,
+  scales,
+  geosphere,
+  rgdal,
+  ggtext,
+  rJava,
+  rgeos,
+  sp,
+  sf,
+  ggspatial,
+  ecospat,
+  rnaturalearth,
+  rnaturalearthdata,
+  #megaSDM,
+  InformationValue,
+  caret,
+  spocc,
+  scrubr
+)
+
+library(ggthemes)
+
+# Change ggplot theme
+theme_set(
+  theme_classic() +
+    theme(
+      panel.border = element_rect(colour = "black",
+                                  fill = NA),
+      axis.text = element_text(colour = "black"),
+      axis.title.x = element_text(margin = unit(c(2, 0, 0, 0),
+                                                "mm")),
+      axis.title.y = element_text(margin = unit(c(0, 4, 0, 0),
+                                                "mm")),
+      legend.position = "none"
+    )
+)
+
+# Set the theme for the maps
+theme_opts <- list(
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_blank(),
+    panel.background = element_rect(fill = 'white', colour = NA),
+    plot.background = element_rect(),
+    axis.line = element_blank(),
+    axis.text.x = element_text(colour = "black"),
+    axis.text.y = element_text(colour = "black"),
+    axis.ticks = element_line(colour = "black"),
+    axis.title.x = element_text(colour = "black"),
+    axis.title.y = element_text(colour = "black"),
+    plot.title = element_text(colour = "black"),
+    panel.border = element_rect(fill = NA),
+    legend.key = element_blank()
+  )
+)
+
+################################################################################
+# PLOT THJE DISTRIBUTION OF ERAGROSTIS CURVULA, FOR EXAMPLE, IN SOUTH AFRICA
+################################################################################
+
+# Get map of South Africa to project our model over
+south_africa <- rnaturalearth::ne_countries(scale = "medium",
+                                     returnclass = "sf") %>%
+  dplyr::filter(name == "South Africa")
+
+
+# List the countries we want records from 
+gbifopts_rsa <- list(country = "ZA") 
+
+# Extract records
+df_rsa <- occ(query = "Eragrostis curvula", 
+          from = c("gbif"),
+          gbifopts = gbifopts_rsa,
+          # Limit the maximum number of records
+          limit = 10000)
+
+# Process data 
+df_comb_rsa <- occ2df(df_rsa)
+
+################################################################################
+# Plot base map
+################################################################################
+
+rsa_ecurvula = ggplot() +
+  geom_sf(data = south_africa) +
+  coord_sf(
+    xlim = c(15, 33.5),
+    ylim = c(-35,-21.5),
+    crs = 4326,
+    expand = FALSE
+  ) +
+  geom_point(data = df_comb_rsa, aes(x = longitude, y = latitude), alpha = 0.5, col = "darkgreen") + 
+  # Add scale bar to bottom-right of map
+  annotation_scale(location = "br", # 'br' = bottom right
+                   style = "ticks", 
+                   width_hint = 0.2) +
+  # Add north arrow
+  annotation_north_arrow(location = "br", 
+                         which_north = "true", 
+                         pad_x = unit(0.25, "in"), 
+                         pad_y = unit(0.3, "in"),
+                         style = north_arrow_fancy_orienteering) +
+  # Apply the theme for the map we defined above. 
+  theme_opts +
+  theme(legend.position = "right") +
+  labs(
+    title = "Native-range distribution",
+    x = "Longitude",
+    y = "Latitude"
+  )
+
+################################################################################
+# PLOT THJE DISTRIBUTION OF ERAGROSTIS CURVULA IN AUSTRALIA, THE INVADED RANGE
+################################################################################
+
+# Get map of Australia to project our model over
+australia <- rnaturalearth::ne_countries(scale = "medium",
+                                     returnclass = "sf") %>%
+  dplyr::filter(name == "Australia")
+
+
+# List the countries we want records from 
+gbifopts_au <- list(country = "AU") 
+
+# Extract records
+df_au <- occ(query = "Eragrostis curvula", 
+          from = c("gbif"),
+          gbifopts = gbifopts_au,
+          # Limit the maximum number of records
+          limit = 10000)
+
+# Process data 
+df_comb_au <- occ2df(df_au)
+
+################################################################################
+# Plot base map
+################################################################################
+
+# Plot base map
+aus_ecurvula = ggplot() +
+  geom_sf(data = australia) +
+  coord_sf(
+    xlim = c(109, 155),
+    ylim = c(-45,-8),
+    crs = 4326,
+    expand = FALSE
+  ) +
+  geom_point(data = df_comb_au, aes(x = longitude, y = latitude), alpha = 0.5, col = "red") + 
+  # Add scale bar to bottom-right of map
+  annotation_scale(location = "bl", # 'br' = bottom right
+                   style = "ticks", 
+                   width_hint = 0.2) +
+  # Add north arrow
+  annotation_north_arrow(location = "bl", 
+                         which_north = "true", 
+                         pad_x = unit(0.3, "in"), 
+                         pad_y = unit(0.3, "in"),
+                         style = north_arrow_fancy_orienteering) +
+  # Apply the theme for the map we defined above. 
+  theme_opts +
+  theme(legend.position = "right") +
+  labs(
+    title = "Invaded-range distribution",
+    x = "Longitude",
+    y = "Latitude"
+  )
+
+##################################################################################
+# COMBINE MAPS
+##################################################################################
+
+map_combo = gridExtra::grid.arrange(rsa_ecurvula, aus_ecurvula, nrow = 1)
+
+# Save image
+ggsave("./curvula_invaded_range.png", plot = map_combo,
+       dpi = 600,
+       height = 10,
+       width = 10)
