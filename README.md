@@ -59,5 +59,7 @@ This world map shows the sampling effort for *Tetramesa* descriptions, where the
 **(2) GRASS DISTRIBUTIONS IN NATIVE AND INVADED RANGES**    
 These maps show the distributions of a query grass species in its native and invasive range, using the GBIF database.
 
+The scripts in (1) and (2) were modified from those kindly provided by Guy Sutton.
+
 **PART 9: SUMMARY BARPLOT FOR THE SPECIMENS COLLECTED**         
 This barplot shows how many wasp specimens were collected on each host grass of interest, and the province it was from.
