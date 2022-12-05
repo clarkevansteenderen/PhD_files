@@ -35,19 +35,19 @@ Mantel tests checked whether there was a correlation between genetic distance an
 #### CHAPTER 3 :page_with_curl:
 --- 
 
-PART 6: COPHYLOGENETIC ANALYSES    
+**PART 6: COPHYLOGENETIC ANALYSES**      
 Global-fit cophylogenetic analyses using a wasp COI Maximum Likelihood phylogeny, and chloroplast (rpl32-trnL, rps16-trnK, and rps16) and nuclear (ITS) trees for the grasses. A PACO analysis is included with phylogenies containing representative sequences from clades. 
 
 #### CHAPTER 4 :page_with_curl:
 ---
 
-PART 7: SPEDE-SAMPLER   
+**PART 7: SPEDE-SAMPLER**          
 Includes all the plotting for the results obtained from the running of the SPEDE-Sampler software on the COI and 28S data.
 
 #### MISCELLANEOUS
 --- 
 
-PART 8: MAPS: 
+**PART 8: MAPS** :globe_with_meridians:   
 
 (1) TETRAMESA SPECIES DESCRIPTIONS GLOBALLY     
 This world map shows the sampling effort for *Tetramesa* descriptions, where there is a strong Northern-Hemisphere bias.
