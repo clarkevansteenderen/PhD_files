@@ -10,9 +10,13 @@ Department of Zoology and Entomology, Centre for Biological Control, Rhodes Univ
 
 ## Instructions :pen:
 
-Download the repository, unzip the folder, and open the R project **"PhD_curated_code"**. The R script **"data_analyses"** contains all the code used for the analyses used in my thesis. The PopArt folders contain the input files for haplotype networks in the PopArt program, for both the COI and 28S data, and the folder containing other species delimitation results are the output files from the ABGD, ASAP, PTP, bPTP, and Haplowebs (COI only).
+Download the repository, unzip the folder, and open the R project **"PhD_curated_code"**. The R script **"data_analyses"** contains all the code used for the analyses used in my thesis. 
 
-The structure follows this order, as per the chapters in the thesis:
+The PopArt folders contain the input files for haplotype networks in the PopArt program, for both the COI and 28S data, and the folder containing other species delimitation results are the output files from the ABGD, ASAP, PTP, bPTP, and Haplowebs (COI only).
+
+The FIGURES folder contains all the figures used in the thesis, organised by chapter.
+
+The structure of the R code follows the order below:
 
 #### CHAPTER 2 :page_with_curl:
 --- 
@@ -49,11 +53,11 @@ Includes all the plotting for the results obtained from the running of the SPEDE
 
 **PART 8: MAPS** :globe_with_meridians:   
 
-(1) TETRAMESA SPECIES DESCRIPTIONS GLOBALLY     
+**(1) TETRAMESA SPECIES DESCRIPTIONS GLOBALLY**    
 This world map shows the sampling effort for *Tetramesa* descriptions, where there is a strong Northern-Hemisphere bias.
 
-(2) GRASS DISTRIBUTIONS IN NATIVE AND INVADED RANGES   
+**(2) GRASS DISTRIBUTIONS IN NATIVE AND INVADED RANGES**    
 These maps show the distributions of a query grass species in its native and invasive range, using the GBIF database.
 
-PART 9: SUMMARY BARPLOT FOR THE SPECIMENS COLLECTED    
+**PART 9: SUMMARY BARPLOT FOR THE SPECIMENS COLLECTED**         
 This barplot shows how many wasp specimens were collected on each host grass of interest, and the province it was from.
