@@ -14,7 +14,7 @@ Download the repository, unzip the folder, and open the R project **"PhD_curated
 
 The structure follows this order, as per the chapters in the thesis:
 
-#### CHAPTER 2
+#### CHAPTER 2 :page_with_curl:
 --- 
 
 **PART 1: PHYLOGENY PLOTTING**    
@@ -32,13 +32,13 @@ Analysis of Molecular Variance (AMOVA) for the golden-shouldered *Tetramesa* on 
 **PART 5: MANTEL TESTS: GENETIC DISTANCE VS GEOGRAPHIC DISTANCE**   
 Mantel tests checked whether there was a correlation between genetic distance and geographic separation for the golden-shouldered *Tetramesa* on *Eragrostis curvula*.
 
-#### CHAPTER 3
+#### CHAPTER 3 :page_with_curl:
 --- 
 
 PART 6: COPHYLOGENETIC ANALYSES    
 Global-fit cophylogenetic analyses using a wasp COI Maximum Likelihood phylogeny, and chloroplast (rpl32-trnL, rps16-trnK, and rps16) and nuclear (ITS) trees for the grasses. A PACO analysis is included with phylogenies containing representative sequences from clades. 
 
-#### CHAPTER 4
+#### CHAPTER 4 :page_with_curl:
 ---
 
 PART 7: SPEDE-SAMPLER   
