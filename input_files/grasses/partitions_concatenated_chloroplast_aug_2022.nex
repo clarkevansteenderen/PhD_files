@@ -1,0 +1,8 @@
+#nexus
+begin sets;
+
+charset rpl32_trnL = 1-1145;
+charset rps_trnK = 1146-2184;
+charset rps16 = 2185-3233;
+
+end;

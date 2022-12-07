@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+charset Subset1_COI=1-545\3; 
+charset Subset2_COI=2-545\3;
+charset Subset3_COI=3-545\3;
+end;
