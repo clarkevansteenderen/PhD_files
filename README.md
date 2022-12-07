@@ -4,7 +4,9 @@ This GitHub repository serves as supplementary material to my PhD thesis, entitl
 
 **"A molecular investigation of stem-galling _Tetramesa_ Walker (Hymenoptera: Eurytomidae) on African grasses: an application to biological control"**
 
-Department of Zoology and Entomology, Centre for Biological Control, Rhodes University, Grahamstown, South Africa
+Department of Zoology and Entomology, Centre for Biological Control, Rhodes University, Grahamstown, South Africa   
+
+Supervisors: Prof. Iain D. Paterson and Dr. Guy F. Sutton
 
 <img src="https://github.com/clarkevansteenderen/PhD_files/blob/main/tetramesa.png" height = 120>
 
