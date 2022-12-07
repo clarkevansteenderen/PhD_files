@@ -14,9 +14,11 @@ Supervisors: Prof. Iain D. Paterson and Dr. Guy F. Sutton
 
 Download the repository, unzip the folder, and open the R project **"PhD_curated_code"**. The R script **"data_analyses"** contains all the code used for the analyses used in my thesis. 
 
-The PopArt folders contain the input files for haplotype networks in the PopArt program, for both the COI and 28S data, and the folder containing other species delimitation results are the output files from the ABGD, ASAP, PTP, bPTP, and Haplowebs (COI only).
+The **PopArt** folders contain the input files for haplotype networks in the PopArt program, for both the COI and 28S data, and the folder containing other species delimitation results are the output files from the ABGD, ASAP, PTP, bPTP, and Haplowebs (COI only).
 
-The FIGURES folder contains all the figures used in the thesis, organised by chapter.
+The **FIGURES** folder contains all the figures used in the thesis, organised by chapter.
+
+The **input_files** folder contains the input files of aligned sequences (COI and 28S) ready for MrBayes and IQ-TREE.
 
 The structure of the R code follows the order below:
 
