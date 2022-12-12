@@ -876,6 +876,24 @@ ggplot( data = resid_combo, aes(x = level, y = res, fill = level) ) +
   theme(text = element_text(size=16) ) 
 
 ##############################################################################################
+# p-distance plot for grass relatedness, Eragrostis species of interest
+##############################################################################################
+
+grass_p_dists = read.csv("p_distances/eragrostis_p_distances_biocontrol.csv")
+summary(grass_p_dists$pdist)
+
+grass_dists_plot = ggplot(data = grass_p_dists, aes(x = reorder(plant, -pdist), y = pdist)) +
+  geom_bar(stat = "identity", colour = "black", fill = "lightblue",  alpha = 0.2) +
+  coord_flip() +
+  ylab("Genetic K2P distance") +
+  xlab("Grass species") +
+  theme_classic() +
+  theme(axis.text.y = element_text(face="italic") ) +
+  theme(axis.title.x = element_text(face="bold", size = 14) ) +
+  theme(axis.title.y = element_text(face="bold", size = 14) ) +
+  scale_y_continuous(breaks = seq(0, 0.24, by = 0.02)) ;grass_dists_plot
+
+##############################################################################################
 ##############################################################################################
 ##############################################################################################
 # PART 7: SPEDE-SAMPLER
