@@ -5,7 +5,7 @@
    viewBox="0 0 749.51123 517.1015"
    version="1.1"
    id="svg46015"
-   sodipodi:docname="COI_p_dists.svg"
+   sodipodi:docname="COI_pairwise_p_dist_heatmap.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="COI_pairwise_p_dist_heatmap.png"
    inkscape:export-xdpi="400"
@@ -26,15 +26,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.97276016"
-     inkscape:cx="590.58751"
-     inkscape:cy="339.75487"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="1911"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.68784531"
+     inkscape:cx="506.65462"
+     inkscape:cy="341.64659"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="1528"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g290842" />
+     inkscape:current-layer="surface1" />
   <defs
      id="defs28460">
     <rect
@@ -1700,6 +1700,240 @@
        width="387.79562"
        height="55.717762"
        id="rect7851-1-4-9-8-6-2-0-0-92-1-3-64-8" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-6" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-8" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-4" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-9" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-7" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-0" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-7" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-7-3" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-1" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-7" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-7" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-3" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-0" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-6-2" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-8-5" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-1" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-4-2" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-9-4" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-2" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-7-6" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-4" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-1" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-08" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-0-3" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6-2" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-1" />
+    <rect
+       x="-41.433735"
+       y="-45.431728"
+       width="272.2269"
+       height="46.885544"
+       id="rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-7-5" />
   </defs>
   <g
      id="surface1"
@@ -1711,11 +1945,43 @@
        transform="translate(-203.75237,-141.32573)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499393">2</tspan></text>
+         id="tspan173892">2</tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.06698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
        d="M 0,453 H 724 V 0 H 0 Z m 0,0"
        id="path28466" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.79079282,0.79079282,0,493.59329,405.29358)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan173894">NPNS.SPOR.PYR</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.79079282,0.79079282,0,509.39883,364.43994)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan173896">NPNS2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.79079282,0.79079282,0,526.36912,364.35345)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7-2-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-7);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan173898">NPNS3</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.79079282,0.79079282,0,608.47259,397.94001)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7-2-0-8"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-7-3);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan173900">P. mauritianus</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1"
@@ -1723,7 +1989,7 @@
        transform="translate(-224.68217,-108.82119)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499395">p ≤ 3%</tspan></text>
+         id="tspan173902">p ≤ 3%</tspan></text>
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1636009"
@@ -1738,7 +2004,7 @@
        transform="translate(-224.87492,-75.794834)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499397">p &lt;= 11%</tspan></text>
+         id="tspan173904">p &lt;= 11%</tspan></text>
     <g
        id="g290842"
        transform="translate(36.260553,25.206865)">
@@ -1756,7 +2022,7 @@
          transform="translate(-243.11086,-17.158266)"><tspan
            x="245.1582"
            y="502.62872"
-           id="tspan499399">Confirmed ID by taxonomists</tspan></text>
+           id="tspan173906">Confirmed ID by taxonomists</tspan></text>
     </g>
     <rect
        style="fill:#ffcccc;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
@@ -1772,7 +2038,7 @@
        transform="translate(-224.48942,-59.094762)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499401">11% &lt; p &lt; 15%</tspan></text>
+         id="tspan173908">11% &lt; p &lt; 15%</tspan></text>
     <rect
        style="fill:#ffc866;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1636009-2-1"
@@ -1787,7 +2053,7 @@
        transform="translate(-224.61186,-92.494904)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499403">p &lt; 5%</tspan></text>
+         id="tspan173910">p &lt; 5%</tspan></text>
     <rect
        style="fill:#ff6666;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1636009-8"
@@ -1802,7 +2068,7 @@
        transform="translate(-247.70141,-129.46778)"><tspan
          x="245.1582"
          y="504.45338"
-         id="tspan499405">KEY</tspan></text>
+         id="tspan173912">KEY</tspan></text>
     <g
        id="g290837"
        transform="translate(35.104047,-6.0187157)">
@@ -1813,7 +2079,7 @@
          transform="translate(-241.59417,0.24297803)"><tspan
            x="245.1582"
            y="502.62872"
-           id="tspan499407">Golden shouldered southern African clades</tspan></text>
+           id="tspan173914">Pronotal spot (PNS) southern African clades</tspan></text>
       <rect
          style="fill:#d4aa00;stroke:none;stroke-width:0.800004;stroke-miterlimit:10;stop-color:#000000"
          id="rect253169-0-0"
@@ -1830,7 +2096,7 @@
        transform="translate(-224.48942,-25.694619)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499409">p ≥ 18%</tspan></text>
+         id="tspan173916">p ≥ 18%</tspan></text>
     <rect
        style="fill:#9999ff;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1636009-2-8"
@@ -1845,7 +2111,7 @@
        transform="translate(-224.68217,-42.587441)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499411">15% ≤ p &lt; 18%</tspan></text>
+         id="tspan173918">15% ≤ p &lt; 18%</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1636009-2-5"
@@ -37174,746 +37440,6 @@
     </g>
     <g
        style="fill:#4c4c4c;fill-opacity:1"
-       id="g44742">
-      <use
-         xlink:href="#glyph1-21"
-         x="72.882812"
-         y="322.63281"
-         id="use44738" />
-      <use
-         xlink:href="#glyph1-22"
-         x="79.727737"
-         y="322.63281"
-         id="use44740" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44756">
-      <use
-         xlink:href="#glyph1-21"
-         x="56.253906"
-         y="313.28516"
-         id="use44744" />
-      <use
-         xlink:href="#glyph1-22"
-         x="63.098827"
-         y="313.28516"
-         id="use44746" />
-      <use
-         xlink:href="#glyph1-23"
-         x="68.968361"
-         y="313.28516"
-         id="use44748" />
-      <use
-         xlink:href="#glyph1-18"
-         x="71.413284"
-         y="313.28516"
-         id="use44750" />
-      <use
-         xlink:href="#glyph1-7"
-         x="77.282814"
-         y="313.28516"
-         id="use44752" />
-      <use
-         xlink:href="#glyph1-24"
-         x="83.152344"
-         y="313.28516"
-         id="use44754" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44776">
-      <use
-         xlink:href="#glyph1-21"
-         x="38.164062"
-         y="303.94141"
-         id="use44758" />
-      <use
-         xlink:href="#glyph1-22"
-         x="45.008984"
-         y="303.94141"
-         id="use44760" />
-      <use
-         xlink:href="#glyph1-23"
-         x="50.878517"
-         y="303.94141"
-         id="use44762" />
-      <use
-         xlink:href="#glyph1-18"
-         x="53.323437"
-         y="303.94141"
-         id="use44764" />
-      <use
-         xlink:href="#glyph1-10"
-         x="59.19297"
-         y="303.94141"
-         id="use44766" />
-      <use
-         xlink:href="#glyph1-9"
-         x="65.54805"
-         y="303.94141"
-         id="use44768" />
-      <use
-         xlink:href="#glyph1-8"
-         x="71.903122"
-         y="303.94141"
-         id="use44770" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.258202"
-         y="303.94141"
-         id="use44772" />
-      <use
-         xlink:href="#glyph1-25"
-         x="80.703125"
-         y="303.94141"
-         id="use44774" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44796">
-      <use
-         xlink:href="#glyph1-21"
-         x="38.164062"
-         y="294.59766"
-         id="use44778" />
-      <use
-         xlink:href="#glyph1-22"
-         x="45.008984"
-         y="294.59766"
-         id="use44780" />
-      <use
-         xlink:href="#glyph1-23"
-         x="50.878517"
-         y="294.59766"
-         id="use44782" />
-      <use
-         xlink:href="#glyph1-18"
-         x="53.323437"
-         y="294.59766"
-         id="use44784" />
-      <use
-         xlink:href="#glyph1-10"
-         x="59.19297"
-         y="294.59766"
-         id="use44786" />
-      <use
-         xlink:href="#glyph1-9"
-         x="65.54805"
-         y="294.59766"
-         id="use44788" />
-      <use
-         xlink:href="#glyph1-8"
-         x="71.903122"
-         y="294.59766"
-         id="use44790" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.258202"
-         y="294.59766"
-         id="use44792" />
-      <use
-         xlink:href="#glyph1-26"
-         x="80.703125"
-         y="294.59766"
-         id="use44794" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44816">
-      <use
-         xlink:href="#glyph1-21"
-         x="38.164062"
-         y="285.25"
-         id="use44798" />
-      <use
-         xlink:href="#glyph1-22"
-         x="45.008984"
-         y="285.25"
-         id="use44800" />
-      <use
-         xlink:href="#glyph1-23"
-         x="50.878517"
-         y="285.25"
-         id="use44802" />
-      <use
-         xlink:href="#glyph1-18"
-         x="53.323437"
-         y="285.25"
-         id="use44804" />
-      <use
-         xlink:href="#glyph1-10"
-         x="59.19297"
-         y="285.25"
-         id="use44806" />
-      <use
-         xlink:href="#glyph1-9"
-         x="65.54805"
-         y="285.25"
-         id="use44808" />
-      <use
-         xlink:href="#glyph1-8"
-         x="71.903122"
-         y="285.25"
-         id="use44810" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.258202"
-         y="285.25"
-         id="use44812" />
-      <use
-         xlink:href="#glyph1-27"
-         x="80.703125"
-         y="285.25"
-         id="use44814" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44836">
-      <use
-         xlink:href="#glyph1-21"
-         x="38.164062"
-         y="275.90625"
-         id="use44818" />
-      <use
-         xlink:href="#glyph1-22"
-         x="45.008984"
-         y="275.90625"
-         id="use44820" />
-      <use
-         xlink:href="#glyph1-23"
-         x="50.878517"
-         y="275.90625"
-         id="use44822" />
-      <use
-         xlink:href="#glyph1-18"
-         x="53.323437"
-         y="275.90625"
-         id="use44824" />
-      <use
-         xlink:href="#glyph1-10"
-         x="59.19297"
-         y="275.90625"
-         id="use44826" />
-      <use
-         xlink:href="#glyph1-9"
-         x="65.54805"
-         y="275.90625"
-         id="use44828" />
-      <use
-         xlink:href="#glyph1-8"
-         x="71.903122"
-         y="275.90625"
-         id="use44830" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.258202"
-         y="275.90625"
-         id="use44832" />
-      <use
-         xlink:href="#glyph1-28"
-         x="80.703125"
-         y="275.90625"
-         id="use44834" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44854">
-      <use
-         xlink:href="#glyph1-21"
-         x="41.582031"
-         y="266.55859"
-         id="use44838" />
-      <use
-         xlink:href="#glyph1-22"
-         x="48.426952"
-         y="266.55859"
-         id="use44840" />
-      <use
-         xlink:href="#glyph1-23"
-         x="54.296486"
-         y="266.55859"
-         id="use44842" />
-      <use
-         xlink:href="#glyph1-18"
-         x="56.741405"
-         y="266.55859"
-         id="use44844" />
-      <use
-         xlink:href="#glyph1-29"
-         x="62.610935"
-         y="266.55859"
-         id="use44846" />
-      <use
-         xlink:href="#glyph1-30"
-         x="68.480469"
-         y="266.55859"
-         id="use44848" />
-      <use
-         xlink:href="#glyph1-31"
-         x="73.374611"
-         y="266.55859"
-         id="use44850" />
-      <use
-         xlink:href="#glyph1-32"
-         x="79.244141"
-         y="266.55859"
-         id="use44852" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44874">
-      <use
-         xlink:href="#glyph1-21"
-         x="41.585938"
-         y="257.21484"
-         id="use44856" />
-      <use
-         xlink:href="#glyph1-22"
-         x="48.430859"
-         y="257.21484"
-         id="use44858" />
-      <use
-         xlink:href="#glyph1-23"
-         x="54.300392"
-         y="257.21484"
-         id="use44860" />
-      <use
-         xlink:href="#glyph1-18"
-         x="56.745312"
-         y="257.21484"
-         id="use44862" />
-      <use
-         xlink:href="#glyph1-8"
-         x="62.614845"
-         y="257.21484"
-         id="use44864" />
-      <use
-         xlink:href="#glyph1-24"
-         x="68.969925"
-         y="257.21484"
-         id="use44866" />
-      <use
-         xlink:href="#glyph1-21"
-         x="71.414841"
-         y="257.21484"
-         id="use44868" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.259766"
-         y="257.21484"
-         id="use44870" />
-      <use
-         xlink:href="#glyph1-25"
-         x="80.704689"
-         y="257.21484"
-         id="use44872" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44894">
-      <use
-         xlink:href="#glyph1-21"
-         x="41.585938"
-         y="247.87109"
-         id="use44876" />
-      <use
-         xlink:href="#glyph1-22"
-         x="48.430859"
-         y="247.87109"
-         id="use44878" />
-      <use
-         xlink:href="#glyph1-23"
-         x="54.300392"
-         y="247.87109"
-         id="use44880" />
-      <use
-         xlink:href="#glyph1-18"
-         x="56.745312"
-         y="247.87109"
-         id="use44882" />
-      <use
-         xlink:href="#glyph1-8"
-         x="62.614845"
-         y="247.87109"
-         id="use44884" />
-      <use
-         xlink:href="#glyph1-24"
-         x="68.969925"
-         y="247.87109"
-         id="use44886" />
-      <use
-         xlink:href="#glyph1-21"
-         x="71.414841"
-         y="247.87109"
-         id="use44888" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.259766"
-         y="247.87109"
-         id="use44890" />
-      <use
-         xlink:href="#glyph1-26"
-         x="80.704689"
-         y="247.87109"
-         id="use44892" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44918">
-      <use
-         xlink:href="#glyph1-21"
-         x="30.34375"
-         y="238.52344"
-         id="use44896" />
-      <use
-         xlink:href="#glyph1-22"
-         x="37.188671"
-         y="238.52344"
-         id="use44898" />
-      <use
-         xlink:href="#glyph1-23"
-         x="43.058205"
-         y="238.52344"
-         id="use44900" />
-      <use
-         xlink:href="#glyph1-18"
-         x="45.503124"
-         y="238.52344"
-         id="use44902" />
-      <use
-         xlink:href="#glyph1-19"
-         x="51.372658"
-         y="238.52344"
-         id="use44904" />
-      <use
-         xlink:href="#glyph1-8"
-         x="56.748047"
-         y="238.52344"
-         id="use44906" />
-      <use
-         xlink:href="#glyph1-24"
-         x="63.103127"
-         y="238.52344"
-         id="use44908" />
-      <use
-         xlink:href="#glyph1-10"
-         x="65.54805"
-         y="238.52344"
-         id="use44910" />
-      <use
-         xlink:href="#glyph1-11"
-         x="71.903122"
-         y="238.52344"
-         id="use44912" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.258202"
-         y="238.52344"
-         id="use44914" />
-      <use
-         xlink:href="#glyph1-25"
-         x="80.703125"
-         y="238.52344"
-         id="use44916" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44942">
-      <use
-         xlink:href="#glyph1-21"
-         x="25.453125"
-         y="229.17969"
-         id="use44920" />
-      <use
-         xlink:href="#glyph1-22"
-         x="32.298046"
-         y="229.17969"
-         id="use44922" />
-      <use
-         xlink:href="#glyph1-23"
-         x="38.16758"
-         y="229.17969"
-         id="use44924" />
-      <use
-         xlink:href="#glyph1-22"
-         x="40.612499"
-         y="229.17969"
-         id="use44926" />
-      <use
-         xlink:href="#glyph1-29"
-         x="46.482033"
-         y="229.17969"
-         id="use44928" />
-      <use
-         xlink:href="#glyph1-33"
-         x="52.351562"
-         y="229.17969"
-         id="use44930" />
-      <use
-         xlink:href="#glyph1-8"
-         x="59.196484"
-         y="229.17969"
-         id="use44932" />
-      <use
-         xlink:href="#glyph1-23"
-         x="65.551559"
-         y="229.17969"
-         id="use44934" />
-      <use
-         xlink:href="#glyph1-32"
-         x="67.996483"
-         y="229.17969"
-         id="use44936" />
-      <use
-         xlink:href="#glyph1-31"
-         x="74.351562"
-         y="229.17969"
-         id="use44938" />
-      <use
-         xlink:href="#glyph1-19"
-         x="80.221092"
-         y="229.17969"
-         id="use44940" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44966"
-       transform="translate(-10.5)">
-      <use
-         xlink:href="#glyph1-21"
-         x="24.960938"
-         y="219.83203"
-         id="use44944" />
-      <use
-         xlink:href="#glyph1-22"
-         x="31.805859"
-         y="219.83203"
-         id="use44946" />
-      <use
-         xlink:href="#glyph1-23"
-         x="37.675392"
-         y="219.83203"
-         id="use44948" />
-      <use
-         xlink:href="#glyph1-22"
-         x="40.120312"
-         y="219.83203"
-         id="use44950" />
-      <use
-         xlink:href="#glyph1-29"
-         x="45.989845"
-         y="219.83203"
-         id="use44952" />
-      <use
-         xlink:href="#glyph1-33"
-         x="51.859375"
-         y="219.83203"
-         id="use44954" />
-      <use
-         xlink:href="#glyph1-8"
-         x="58.704296"
-         y="219.83203"
-         id="use44956" />
-      <use
-         xlink:href="#glyph1-23"
-         x="65.059372"
-         y="219.83203"
-         id="use44958" />
-      <use
-         xlink:href="#glyph1-29"
-         x="67.504295"
-         y="219.83203"
-         id="use44960" />
-      <use
-         xlink:href="#glyph1-34"
-         x="73.373825"
-         y="219.83203"
-         id="use44962" />
-      <use
-         xlink:href="#glyph1-8"
-         x="79.243362"
-         y="219.83203"
-         id="use44964" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44974">
-      <use
-         xlink:href="#glyph1-32"
-         x="66.527344"
-         y="210.48828"
-         id="use44968" />
-      <use
-         xlink:href="#glyph1-21"
-         x="72.882423"
-         y="210.48828"
-         id="use44970" />
-      <use
-         xlink:href="#glyph1-22"
-         x="79.727341"
-         y="210.48828"
-         id="use44972" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g44996">
-      <use
-         xlink:href="#glyph1-32"
-         x="31.808594"
-         y="201.14453"
-         id="use44976" />
-      <use
-         xlink:href="#glyph1-21"
-         x="38.163673"
-         y="201.14453"
-         id="use44978" />
-      <use
-         xlink:href="#glyph1-22"
-         x="45.008595"
-         y="201.14453"
-         id="use44980" />
-      <use
-         xlink:href="#glyph1-23"
-         x="50.878124"
-         y="201.14453"
-         id="use44982" />
-      <use
-         xlink:href="#glyph1-18"
-         x="53.323048"
-         y="201.14453"
-         id="use44984" />
-      <use
-         xlink:href="#glyph1-10"
-         x="59.192577"
-         y="201.14453"
-         id="use44986" />
-      <use
-         xlink:href="#glyph1-9"
-         x="65.547653"
-         y="201.14453"
-         id="use44988" />
-      <use
-         xlink:href="#glyph1-8"
-         x="71.902733"
-         y="201.14453"
-         id="use44990" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.257812"
-         y="201.14453"
-         id="use44992" />
-      <use
-         xlink:href="#glyph1-25"
-         x="80.702736"
-         y="201.14453"
-         id="use44994" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45018">
-      <use
-         xlink:href="#glyph1-32"
-         x="31.808594"
-         y="191.79688"
-         id="use44998" />
-      <use
-         xlink:href="#glyph1-21"
-         x="38.163673"
-         y="191.79688"
-         id="use45000" />
-      <use
-         xlink:href="#glyph1-22"
-         x="45.008595"
-         y="191.79688"
-         id="use45002" />
-      <use
-         xlink:href="#glyph1-23"
-         x="50.878124"
-         y="191.79688"
-         id="use45004" />
-      <use
-         xlink:href="#glyph1-18"
-         x="53.323048"
-         y="191.79688"
-         id="use45006" />
-      <use
-         xlink:href="#glyph1-10"
-         x="59.192577"
-         y="191.79688"
-         id="use45008" />
-      <use
-         xlink:href="#glyph1-9"
-         x="65.547653"
-         y="191.79688"
-         id="use45010" />
-      <use
-         xlink:href="#glyph1-8"
-         x="71.902733"
-         y="191.79688"
-         id="use45012" />
-      <use
-         xlink:href="#glyph1-23"
-         x="78.257812"
-         y="191.79688"
-         id="use45014" />
-      <use
-         xlink:href="#glyph1-26"
-         x="80.702736"
-         y="191.79688"
-         id="use45016" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45038">
-      <use
-         xlink:href="#glyph1-32"
-         x="35.226562"
-         y="182.45312"
-         id="use45020" />
-      <use
-         xlink:href="#glyph1-21"
-         x="41.581642"
-         y="182.45312"
-         id="use45022" />
-      <use
-         xlink:href="#glyph1-22"
-         x="48.426563"
-         y="182.45312"
-         id="use45024" />
-      <use
-         xlink:href="#glyph1-23"
-         x="54.296093"
-         y="182.45312"
-         id="use45026" />
-      <use
-         xlink:href="#glyph1-18"
-         x="56.741016"
-         y="182.45312"
-         id="use45028" />
-      <use
-         xlink:href="#glyph1-29"
-         x="62.610546"
-         y="182.45312"
-         id="use45030" />
-      <use
-         xlink:href="#glyph1-30"
-         x="68.48008"
-         y="182.45312"
-         id="use45032" />
-      <use
-         xlink:href="#glyph1-31"
-         x="73.374222"
-         y="182.45312"
-         id="use45034" />
-      <use
-         xlink:href="#glyph1-32"
-         x="79.243752"
-         y="182.45312"
-         id="use45036" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
        id="g45060">
       <use
          xlink:href="#glyph1-11"
@@ -38016,118 +37542,6 @@
     </g>
     <g
        style="fill:#4c4c4c;fill-opacity:1"
-       id="g45130">
-      <use
-         xlink:href="#glyph1-32"
-         x="18.605469"
-         y="145.07031"
-         id="use45106" />
-      <use
-         xlink:href="#glyph1-21"
-         x="24.960546"
-         y="145.07031"
-         id="use45108" />
-      <use
-         xlink:href="#glyph1-22"
-         x="31.80547"
-         y="145.07031"
-         id="use45110" />
-      <use
-         xlink:href="#glyph1-23"
-         x="37.674999"
-         y="145.07031"
-         id="use45112" />
-      <use
-         xlink:href="#glyph1-22"
-         x="40.119923"
-         y="145.07031"
-         id="use45114" />
-      <use
-         xlink:href="#glyph1-29"
-         x="45.989452"
-         y="145.07031"
-         id="use45116" />
-      <use
-         xlink:href="#glyph1-33"
-         x="51.858986"
-         y="145.07031"
-         id="use45118" />
-      <use
-         xlink:href="#glyph1-8"
-         x="58.703907"
-         y="145.07031"
-         id="use45120" />
-      <use
-         xlink:href="#glyph1-23"
-         x="65.058983"
-         y="145.07031"
-         id="use45122" />
-      <use
-         xlink:href="#glyph1-29"
-         x="67.503906"
-         y="145.07031"
-         id="use45124" />
-      <use
-         xlink:href="#glyph1-34"
-         x="73.373436"
-         y="145.07031"
-         id="use45126" />
-      <use
-         xlink:href="#glyph1-8"
-         x="79.242966"
-         y="145.07031"
-         id="use45128" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45140">
-      <use
-         xlink:href="#glyph1-32"
-         x="61.632812"
-         y="135.72656"
-         id="use45132" />
-      <use
-         xlink:href="#glyph1-21"
-         x="67.987892"
-         y="135.72656"
-         id="use45134" />
-      <use
-         xlink:href="#glyph1-22"
-         x="74.832809"
-         y="135.72656"
-         id="use45136" />
-      <use
-         xlink:href="#glyph1-26"
-         x="80.702347"
-         y="135.72656"
-         id="use45138" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45150">
-      <use
-         xlink:href="#glyph1-32"
-         x="61.632812"
-         y="126.37891"
-         id="use45142" />
-      <use
-         xlink:href="#glyph1-21"
-         x="67.987892"
-         y="126.37891"
-         id="use45144" />
-      <use
-         xlink:href="#glyph1-22"
-         x="74.832809"
-         y="126.37891"
-         id="use45146" />
-      <use
-         xlink:href="#glyph1-27"
-         x="80.702347"
-         y="126.37891"
-         id="use45148" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
        id="g45156">
       <use
          xlink:href="#glyph1-29"
@@ -38223,7 +37637,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004);display:inline"><tspan
            x="-41.433594"
            y="-35.700087"
-           id="tspan499413"> T. bambusae</tspan></text>
+           id="tspan173920"> T. bambusae</tspan></text>
     </g>
     <g
        style="fill:#4c4c4c;fill-opacity:1"
@@ -38654,746 +38068,6 @@
     </g>
     <g
        style="fill:#4c4c4c;fill-opacity:1"
-       id="g45470">
-      <use
-         xlink:href="#glyph2-18"
-         x="152.85938"
-         y="380.11719"
-         id="use45466" />
-      <use
-         xlink:href="#glyph2-19"
-         x="152.85938"
-         y="373.27228"
-         id="use45468" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45484">
-      <use
-         xlink:href="#glyph2-18"
-         x="169.30078"
-         y="396.74609"
-         id="use45472" />
-      <use
-         xlink:href="#glyph2-19"
-         x="169.30078"
-         y="389.90118"
-         id="use45474" />
-      <use
-         xlink:href="#glyph2-20"
-         x="169.30078"
-         y="384.03165"
-         id="use45476" />
-      <use
-         xlink:href="#glyph2-15"
-         x="169.30078"
-         y="381.58673"
-         id="use45478" />
-      <use
-         xlink:href="#glyph2-1"
-         x="169.30078"
-         y="375.71719"
-         id="use45480" />
-      <use
-         xlink:href="#glyph2-21"
-         x="169.30078"
-         y="369.84766"
-         id="use45482" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45504">
-      <use
-         xlink:href="#glyph2-18"
-         x="185.73828"
-         y="414.83594"
-         id="use45486" />
-      <use
-         xlink:href="#glyph2-19"
-         x="185.73828"
-         y="407.99103"
-         id="use45488" />
-      <use
-         xlink:href="#glyph2-20"
-         x="185.73828"
-         y="402.12149"
-         id="use45490" />
-      <use
-         xlink:href="#glyph2-15"
-         x="185.73828"
-         y="399.67657"
-         id="use45492" />
-      <use
-         xlink:href="#glyph2-4"
-         x="185.73828"
-         y="393.80704"
-         id="use45494" />
-      <use
-         xlink:href="#glyph2-3"
-         x="185.73828"
-         y="387.45197"
-         id="use45496" />
-      <use
-         xlink:href="#glyph2-2"
-         x="185.73828"
-         y="381.09686"
-         id="use45498" />
-      <use
-         xlink:href="#glyph2-20"
-         x="185.73828"
-         y="374.74179"
-         id="use45500" />
-      <use
-         xlink:href="#glyph2-22"
-         x="185.73828"
-         y="372.29688"
-         id="use45502" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45524">
-      <use
-         xlink:href="#glyph2-18"
-         x="202.17969"
-         y="414.83594"
-         id="use45506" />
-      <use
-         xlink:href="#glyph2-19"
-         x="202.17969"
-         y="407.99103"
-         id="use45508" />
-      <use
-         xlink:href="#glyph2-20"
-         x="202.17969"
-         y="402.12149"
-         id="use45510" />
-      <use
-         xlink:href="#glyph2-15"
-         x="202.17969"
-         y="399.67657"
-         id="use45512" />
-      <use
-         xlink:href="#glyph2-4"
-         x="202.17969"
-         y="393.80704"
-         id="use45514" />
-      <use
-         xlink:href="#glyph2-3"
-         x="202.17969"
-         y="387.45197"
-         id="use45516" />
-      <use
-         xlink:href="#glyph2-2"
-         x="202.17969"
-         y="381.09686"
-         id="use45518" />
-      <use
-         xlink:href="#glyph2-20"
-         x="202.17969"
-         y="374.74179"
-         id="use45520" />
-      <use
-         xlink:href="#glyph2-23"
-         x="202.17969"
-         y="372.29688"
-         id="use45522" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45544">
-      <use
-         xlink:href="#glyph2-18"
-         x="218.62109"
-         y="414.83594"
-         id="use45526" />
-      <use
-         xlink:href="#glyph2-19"
-         x="218.62109"
-         y="407.99103"
-         id="use45528" />
-      <use
-         xlink:href="#glyph2-20"
-         x="218.62109"
-         y="402.12149"
-         id="use45530" />
-      <use
-         xlink:href="#glyph2-15"
-         x="218.62109"
-         y="399.67657"
-         id="use45532" />
-      <use
-         xlink:href="#glyph2-4"
-         x="218.62109"
-         y="393.80704"
-         id="use45534" />
-      <use
-         xlink:href="#glyph2-3"
-         x="218.62109"
-         y="387.45197"
-         id="use45536" />
-      <use
-         xlink:href="#glyph2-2"
-         x="218.62109"
-         y="381.09686"
-         id="use45538" />
-      <use
-         xlink:href="#glyph2-20"
-         x="218.62109"
-         y="374.74179"
-         id="use45540" />
-      <use
-         xlink:href="#glyph2-24"
-         x="218.62109"
-         y="372.29688"
-         id="use45542" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45564">
-      <use
-         xlink:href="#glyph2-18"
-         x="235.05859"
-         y="414.83594"
-         id="use45546" />
-      <use
-         xlink:href="#glyph2-19"
-         x="235.05859"
-         y="407.99103"
-         id="use45548" />
-      <use
-         xlink:href="#glyph2-20"
-         x="235.05859"
-         y="402.12149"
-         id="use45550" />
-      <use
-         xlink:href="#glyph2-15"
-         x="235.05859"
-         y="399.67657"
-         id="use45552" />
-      <use
-         xlink:href="#glyph2-4"
-         x="235.05859"
-         y="393.80704"
-         id="use45554" />
-      <use
-         xlink:href="#glyph2-3"
-         x="235.05859"
-         y="387.45197"
-         id="use45556" />
-      <use
-         xlink:href="#glyph2-2"
-         x="235.05859"
-         y="381.09686"
-         id="use45558" />
-      <use
-         xlink:href="#glyph2-20"
-         x="235.05859"
-         y="374.74179"
-         id="use45560" />
-      <use
-         xlink:href="#glyph2-25"
-         x="235.05859"
-         y="372.29688"
-         id="use45562" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45582">
-      <use
-         xlink:href="#glyph2-18"
-         x="251.5"
-         y="411.41797"
-         id="use45566" />
-      <use
-         xlink:href="#glyph2-19"
-         x="251.5"
-         y="404.57306"
-         id="use45568" />
-      <use
-         xlink:href="#glyph2-20"
-         x="251.5"
-         y="398.70352"
-         id="use45570" />
-      <use
-         xlink:href="#glyph2-15"
-         x="251.5"
-         y="396.25861"
-         id="use45572" />
-      <use
-         xlink:href="#glyph2-26"
-         x="251.5"
-         y="390.38907"
-         id="use45574" />
-      <use
-         xlink:href="#glyph2-27"
-         x="251.5"
-         y="384.51953"
-         id="use45576" />
-      <use
-         xlink:href="#glyph2-28"
-         x="251.5"
-         y="379.6254"
-         id="use45578" />
-      <use
-         xlink:href="#glyph2-29"
-         x="251.5"
-         y="373.75586"
-         id="use45580" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45602">
-      <use
-         xlink:href="#glyph2-18"
-         x="267.9375"
-         y="411.41406"
-         id="use45584" />
-      <use
-         xlink:href="#glyph2-19"
-         x="267.9375"
-         y="404.56915"
-         id="use45586" />
-      <use
-         xlink:href="#glyph2-20"
-         x="267.9375"
-         y="398.69962"
-         id="use45588" />
-      <use
-         xlink:href="#glyph2-15"
-         x="267.9375"
-         y="396.2547"
-         id="use45590" />
-      <use
-         xlink:href="#glyph2-2"
-         x="267.9375"
-         y="390.38516"
-         id="use45592" />
-      <use
-         xlink:href="#glyph2-21"
-         x="267.9375"
-         y="384.03009"
-         id="use45594" />
-      <use
-         xlink:href="#glyph2-18"
-         x="267.9375"
-         y="381.58514"
-         id="use45596" />
-      <use
-         xlink:href="#glyph2-20"
-         x="267.9375"
-         y="374.74023"
-         id="use45598" />
-      <use
-         xlink:href="#glyph2-22"
-         x="267.9375"
-         y="372.29532"
-         id="use45600" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45622">
-      <use
-         xlink:href="#glyph2-18"
-         x="284.37891"
-         y="411.41406"
-         id="use45604" />
-      <use
-         xlink:href="#glyph2-19"
-         x="284.37891"
-         y="404.56915"
-         id="use45606" />
-      <use
-         xlink:href="#glyph2-20"
-         x="284.37891"
-         y="398.69962"
-         id="use45608" />
-      <use
-         xlink:href="#glyph2-15"
-         x="284.37891"
-         y="396.2547"
-         id="use45610" />
-      <use
-         xlink:href="#glyph2-2"
-         x="284.37891"
-         y="390.38516"
-         id="use45612" />
-      <use
-         xlink:href="#glyph2-21"
-         x="284.37891"
-         y="384.03009"
-         id="use45614" />
-      <use
-         xlink:href="#glyph2-18"
-         x="284.37891"
-         y="381.58514"
-         id="use45616" />
-      <use
-         xlink:href="#glyph2-20"
-         x="284.37891"
-         y="374.74023"
-         id="use45618" />
-      <use
-         xlink:href="#glyph2-23"
-         x="284.37891"
-         y="372.29532"
-         id="use45620" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45646">
-      <use
-         xlink:href="#glyph2-18"
-         x="300.81641"
-         y="422.65625"
-         id="use45624" />
-      <use
-         xlink:href="#glyph2-19"
-         x="300.81641"
-         y="415.81134"
-         id="use45626" />
-      <use
-         xlink:href="#glyph2-20"
-         x="300.81641"
-         y="409.9418"
-         id="use45628" />
-      <use
-         xlink:href="#glyph2-15"
-         x="300.81641"
-         y="407.49689"
-         id="use45630" />
-      <use
-         xlink:href="#glyph2-16"
-         x="300.81641"
-         y="401.62735"
-         id="use45632" />
-      <use
-         xlink:href="#glyph2-2"
-         x="300.81641"
-         y="396.25195"
-         id="use45634" />
-      <use
-         xlink:href="#glyph2-21"
-         x="300.81641"
-         y="389.89688"
-         id="use45636" />
-      <use
-         xlink:href="#glyph2-4"
-         x="300.81641"
-         y="387.45197"
-         id="use45638" />
-      <use
-         xlink:href="#glyph2-5"
-         x="300.81641"
-         y="381.09686"
-         id="use45640" />
-      <use
-         xlink:href="#glyph2-20"
-         x="300.81641"
-         y="374.74179"
-         id="use45642" />
-      <use
-         xlink:href="#glyph2-22"
-         x="300.81641"
-         y="372.29688"
-         id="use45644" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45670">
-      <use
-         xlink:href="#glyph2-18"
-         x="317.25781"
-         y="427.54688"
-         id="use45648" />
-      <use
-         xlink:href="#glyph2-19"
-         x="317.25781"
-         y="420.70197"
-         id="use45650" />
-      <use
-         xlink:href="#glyph2-20"
-         x="317.25781"
-         y="414.83243"
-         id="use45652" />
-      <use
-         xlink:href="#glyph2-19"
-         x="317.25781"
-         y="412.38751"
-         id="use45654" />
-      <use
-         xlink:href="#glyph2-26"
-         x="317.25781"
-         y="406.51797"
-         id="use45656" />
-      <use
-         xlink:href="#glyph2-30"
-         x="317.25781"
-         y="400.64844"
-         id="use45658" />
-      <use
-         xlink:href="#glyph2-2"
-         x="317.25781"
-         y="393.80353"
-         id="use45660" />
-      <use
-         xlink:href="#glyph2-20"
-         x="317.25781"
-         y="387.44843"
-         id="use45662" />
-      <use
-         xlink:href="#glyph2-29"
-         x="317.25781"
-         y="385.00351"
-         id="use45664" />
-      <use
-         xlink:href="#glyph2-28"
-         x="317.25781"
-         y="378.64844"
-         id="use45666" />
-      <use
-         xlink:href="#glyph2-16"
-         x="317.25781"
-         y="372.7789"
-         id="use45668" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45694"
-       transform="translate(0,10.5)">
-      <use
-         xlink:href="#glyph2-18"
-         x="333.69531"
-         y="428.03906"
-         id="use45672" />
-      <use
-         xlink:href="#glyph2-19"
-         x="333.69531"
-         y="421.19415"
-         id="use45674" />
-      <use
-         xlink:href="#glyph2-20"
-         x="333.69531"
-         y="415.32462"
-         id="use45676" />
-      <use
-         xlink:href="#glyph2-19"
-         x="333.69531"
-         y="412.8797"
-         id="use45678" />
-      <use
-         xlink:href="#glyph2-26"
-         x="333.69531"
-         y="407.01016"
-         id="use45680" />
-      <use
-         xlink:href="#glyph2-30"
-         x="333.69531"
-         y="401.14062"
-         id="use45682" />
-      <use
-         xlink:href="#glyph2-2"
-         x="333.69531"
-         y="394.29572"
-         id="use45684" />
-      <use
-         xlink:href="#glyph2-20"
-         x="333.69531"
-         y="387.94061"
-         id="use45686" />
-      <use
-         xlink:href="#glyph2-26"
-         x="333.69531"
-         y="385.4957"
-         id="use45688" />
-      <use
-         xlink:href="#glyph2-31"
-         x="333.69531"
-         y="379.62616"
-         id="use45690" />
-      <use
-         xlink:href="#glyph2-2"
-         x="333.69531"
-         y="373.75665"
-         id="use45692" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45702">
-      <use
-         xlink:href="#glyph2-29"
-         x="350.13672"
-         y="386.47266"
-         id="use45696" />
-      <use
-         xlink:href="#glyph2-18"
-         x="350.13672"
-         y="380.11758"
-         id="use45698" />
-      <use
-         xlink:href="#glyph2-19"
-         x="350.13672"
-         y="373.27264"
-         id="use45700" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45724">
-      <use
-         xlink:href="#glyph2-29"
-         x="366.57422"
-         y="421.19141"
-         id="use45704" />
-      <use
-         xlink:href="#glyph2-18"
-         x="366.57422"
-         y="414.83633"
-         id="use45706" />
-      <use
-         xlink:href="#glyph2-19"
-         x="366.57422"
-         y="407.99139"
-         id="use45708" />
-      <use
-         xlink:href="#glyph2-20"
-         x="366.57422"
-         y="402.12189"
-         id="use45710" />
-      <use
-         xlink:href="#glyph2-15"
-         x="366.57422"
-         y="399.67694"
-         id="use45712" />
-      <use
-         xlink:href="#glyph2-4"
-         x="366.57422"
-         y="393.80743"
-         id="use45714" />
-      <use
-         xlink:href="#glyph2-3"
-         x="366.57422"
-         y="387.45233"
-         id="use45716" />
-      <use
-         xlink:href="#glyph2-2"
-         x="366.57422"
-         y="381.09726"
-         id="use45718" />
-      <use
-         xlink:href="#glyph2-20"
-         x="366.57422"
-         y="374.74219"
-         id="use45720" />
-      <use
-         xlink:href="#glyph2-22"
-         x="366.57422"
-         y="372.29727"
-         id="use45722" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45746">
-      <use
-         xlink:href="#glyph2-29"
-         x="383.01562"
-         y="421.19141"
-         id="use45726" />
-      <use
-         xlink:href="#glyph2-18"
-         x="383.01562"
-         y="414.83633"
-         id="use45728" />
-      <use
-         xlink:href="#glyph2-19"
-         x="383.01562"
-         y="407.99139"
-         id="use45730" />
-      <use
-         xlink:href="#glyph2-20"
-         x="383.01562"
-         y="402.12189"
-         id="use45732" />
-      <use
-         xlink:href="#glyph2-15"
-         x="383.01562"
-         y="399.67694"
-         id="use45734" />
-      <use
-         xlink:href="#glyph2-4"
-         x="383.01562"
-         y="393.80743"
-         id="use45736" />
-      <use
-         xlink:href="#glyph2-3"
-         x="383.01562"
-         y="387.45233"
-         id="use45738" />
-      <use
-         xlink:href="#glyph2-2"
-         x="383.01562"
-         y="381.09726"
-         id="use45740" />
-      <use
-         xlink:href="#glyph2-20"
-         x="383.01562"
-         y="374.74219"
-         id="use45742" />
-      <use
-         xlink:href="#glyph2-23"
-         x="383.01562"
-         y="372.29727"
-         id="use45744" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45766">
-      <use
-         xlink:href="#glyph2-29"
-         x="399.45312"
-         y="417.77344"
-         id="use45748" />
-      <use
-         xlink:href="#glyph2-18"
-         x="399.45312"
-         y="411.41837"
-         id="use45750" />
-      <use
-         xlink:href="#glyph2-19"
-         x="399.45312"
-         y="404.57343"
-         id="use45752" />
-      <use
-         xlink:href="#glyph2-20"
-         x="399.45312"
-         y="398.70392"
-         id="use45754" />
-      <use
-         xlink:href="#glyph2-15"
-         x="399.45312"
-         y="396.25897"
-         id="use45756" />
-      <use
-         xlink:href="#glyph2-26"
-         x="399.45312"
-         y="390.38947"
-         id="use45758" />
-      <use
-         xlink:href="#glyph2-27"
-         x="399.45312"
-         y="384.51993"
-         id="use45760" />
-      <use
-         xlink:href="#glyph2-28"
-         x="399.45312"
-         y="379.62579"
-         id="use45762" />
-      <use
-         xlink:href="#glyph2-29"
-         x="399.45312"
-         y="373.75626"
-         id="use45764" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
        id="g45788">
       <use
          xlink:href="#glyph2-5"
@@ -39680,118 +38354,6 @@
     </g>
     <g
        style="fill:#4c4c4c;fill-opacity:1"
-       id="g45858">
-      <use
-         xlink:href="#glyph2-29"
-         x="465.21094"
-         y="434.39453"
-         id="use45834" />
-      <use
-         xlink:href="#glyph2-18"
-         x="465.21094"
-         y="428.03946"
-         id="use45836" />
-      <use
-         xlink:href="#glyph2-19"
-         x="465.21094"
-         y="421.19452"
-         id="use45838" />
-      <use
-         xlink:href="#glyph2-20"
-         x="465.21094"
-         y="415.32501"
-         id="use45840" />
-      <use
-         xlink:href="#glyph2-19"
-         x="465.21094"
-         y="412.88007"
-         id="use45842" />
-      <use
-         xlink:href="#glyph2-26"
-         x="465.21094"
-         y="407.01056"
-         id="use45844" />
-      <use
-         xlink:href="#glyph2-30"
-         x="465.21094"
-         y="401.14102"
-         id="use45846" />
-      <use
-         xlink:href="#glyph2-2"
-         x="465.21094"
-         y="394.29608"
-         id="use45848" />
-      <use
-         xlink:href="#glyph2-20"
-         x="465.21094"
-         y="387.94101"
-         id="use45850" />
-      <use
-         xlink:href="#glyph2-26"
-         x="465.21094"
-         y="385.49609"
-         id="use45852" />
-      <use
-         xlink:href="#glyph2-31"
-         x="465.21094"
-         y="379.62656"
-         id="use45854" />
-      <use
-         xlink:href="#glyph2-2"
-         x="465.21094"
-         y="373.75702"
-         id="use45856" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45868">
-      <use
-         xlink:href="#glyph2-29"
-         x="481.65234"
-         y="391.36719"
-         id="use45860" />
-      <use
-         xlink:href="#glyph2-18"
-         x="481.65234"
-         y="385.01212"
-         id="use45862" />
-      <use
-         xlink:href="#glyph2-19"
-         x="481.65234"
-         y="378.16718"
-         id="use45864" />
-      <use
-         xlink:href="#glyph2-23"
-         x="481.65234"
-         y="372.29767"
-         id="use45866" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45878">
-      <use
-         xlink:href="#glyph2-29"
-         x="498.09375"
-         y="391.36719"
-         id="use45870" />
-      <use
-         xlink:href="#glyph2-18"
-         x="498.09375"
-         y="385.01212"
-         id="use45872" />
-      <use
-         xlink:href="#glyph2-19"
-         x="498.09375"
-         y="378.16718"
-         id="use45874" />
-      <use
-         xlink:href="#glyph2-24"
-         x="498.09375"
-         y="372.29767"
-         id="use45876" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
        id="g45884">
       <use
          xlink:href="#glyph2-26"
@@ -39855,70 +38417,6 @@
          x="563.85156"
          y="372.29532"
          id="use45904" />
-    </g>
-    <g
-       style="fill:#4c4c4c;fill-opacity:1"
-       id="g45932">
-      <use
-         xlink:href="#glyph2-32"
-         x="580.28906"
-         y="419.25391"
-         id="use45908" />
-      <use
-         xlink:href="#glyph2-9"
-         x="580.28906"
-         y="414.35977"
-         id="use45910" />
-      <use
-         xlink:href="#glyph2-6"
-         x="580.28906"
-         y="409.46564"
-         id="use45912" />
-      <use
-         xlink:href="#glyph2-33"
-         x="580.28906"
-         y="406.53516"
-         id="use45914" />
-      <use
-         xlink:href="#glyph2-11"
-         x="580.28906"
-         y="401.64102"
-         id="use45916" />
-      <use
-         xlink:href="#glyph2-10"
-         x="580.28906"
-         y="396.74689"
-         id="use45918" />
-      <use
-         xlink:href="#glyph2-34"
-         x="580.28906"
-         y="391.85272"
-         id="use45920" />
-      <use
-         xlink:href="#glyph2-33"
-         x="580.28906"
-         y="384.52228"
-         id="use45922" />
-      <use
-         xlink:href="#glyph2-7"
-         x="580.28906"
-         y="379.62811"
-         id="use45924" />
-      <use
-         xlink:href="#glyph2-6"
-         x="580.28906"
-         y="374.73398"
-         id="use45926" />
-      <use
-         xlink:href="#glyph2-12"
-         x="580.28906"
-         y="371.80353"
-         id="use45928" />
-      <use
-         xlink:href="#glyph2-35"
-         x="580.28906"
-         y="369.84845"
-         id="use45930" />
     </g>
     <g
        style="fill:#4c4c4c;fill-opacity:1"
@@ -40066,7 +38564,7 @@
        transform="translate(-257.53439,-422.98848)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499415">Phragmites mauritianus</tspan></text>
+         id="tspan173922">Phragmites mauritianus</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-0-9-5"
@@ -40074,7 +38572,7 @@
        transform="translate(-247.17596,-161.84691)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499417">Bruchophagus gibbus</tspan></text>
+         id="tspan173924">Bruchophagus gibbus</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-1"
@@ -40082,7 +38580,7 @@
        transform="matrix(1.1305859,0,0,1.1305859,-224.89824,-207.05856)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499419">A.GAYA</tspan></text>
+         id="tspan173926">A.GAYA</tspan></text>
     <ellipse
        style="fill:#e72a2a;fill-opacity:1;stroke:#000000;stroke-width:0.45;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path267745-6-9-5"
@@ -40115,7 +38613,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1);display:inline"><tspan
            x="-41.433594"
            y="-35.700087"
-           id="tspan499421"> T. bambusae</tspan></text>
+           id="tspan173928"> T. bambusae</tspan></text>
     </g>
     <rect
        style="fill:#d4aa00;stroke:none;stroke-width:0.800003;stroke-miterlimit:10;stop-color:#000000"
@@ -40155,7 +38653,7 @@
        transform="rotate(-90,158.24742,541.93762)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499423">Bruchophagus gibbus</tspan></text>
+         id="tspan173930">Bruchophagus gibbus</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-1"
@@ -40163,7 +38661,7 @@
        transform="translate(-151.40255,-152.41895)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499425">1.1</tspan></text>
+         id="tspan173932">1.1</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-3"
@@ -40171,7 +38669,7 @@
        transform="translate(-123.68184,-170.39745)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499427">0.08</tspan></text>
+         id="tspan173934">0.08</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-6"
@@ -40179,7 +38677,7 @@
        transform="translate(-108.51718,-180.29014)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499429">0.64</tspan></text>
+         id="tspan173936">0.64</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4"
@@ -40187,7 +38685,7 @@
        transform="translate(-81.324359,-190.32072)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499431">0</tspan></text>
+         id="tspan173938">0</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-5"
@@ -40195,7 +38693,7 @@
        transform="translate(-75.624199,-200.40461)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499433">0.58</tspan></text>
+         id="tspan173940">0.58</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-31"
@@ -40203,7 +38701,7 @@
        transform="translate(-54.087792,-209.93551)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499435">1.1</tspan></text>
+         id="tspan173942">1.1</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-0"
@@ -40211,7 +38709,7 @@
        transform="translate(-42.32325,-219.2153)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499437">0.15</tspan></text>
+         id="tspan173944">0.15</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-2"
@@ -40219,7 +38717,7 @@
        transform="translate(-25.469522,-228.48142)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499439">2.25</tspan></text>
+         id="tspan173946">2.25</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-8"
@@ -40227,7 +38725,7 @@
        transform="translate(0.99793145,-238.29662)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499441">0</tspan></text>
+         id="tspan173948">0</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-4"
@@ -40235,7 +38733,7 @@
        transform="translate(7.4943729,-246.74692)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499443">0.16</tspan></text>
+         id="tspan173950">0.16</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-41"
@@ -40243,7 +38741,7 @@
        transform="translate(27.790873,-257.10536)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499445">0.7</tspan></text>
+         id="tspan173952">0.7</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-1"
@@ -40251,7 +38749,7 @@
        transform="translate(39.157829,-266.64407)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499447">0.22</tspan></text>
+         id="tspan173954">0.22</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-48"
@@ -40259,7 +38757,7 @@
        transform="translate(56.62705,-275.91409)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499449">0.75</tspan></text>
+         id="tspan173956">0.75</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-7"
@@ -40267,7 +38765,7 @@
        transform="translate(77.679287,-285.14446)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499451">1.8</tspan></text>
+         id="tspan173958">1.8</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-6"
@@ -40275,7 +38773,7 @@
        transform="translate(89.830277,-293.24193)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499453">1.05</tspan></text>
+         id="tspan173960">1.05</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73"
@@ -40283,7 +38781,7 @@
        transform="translate(106.23031,-302.10846)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499455">0.96</tspan></text>
+         id="tspan173962">0.96</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-6"
@@ -40291,7 +38789,7 @@
        transform="translate(122.80684,-310.97498)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499457">0.46</tspan></text>
+         id="tspan173964">0.46</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-0"
@@ -40299,7 +38797,7 @@
        transform="translate(139.47006,-320.6125)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499459">1.04</tspan></text>
+         id="tspan173966">1.04</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-3"
@@ -40307,7 +38805,7 @@
        transform="translate(156.39231,-329.86452)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499461">0.79</tspan></text>
+         id="tspan173968">0.79</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-4"
@@ -40315,7 +38813,7 @@
        transform="translate(172.62314,-339.93638)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499463">1.54</tspan></text>
+         id="tspan173970">1.54</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-9"
@@ -40323,7 +38821,7 @@
        transform="translate(188.81419,-348.74236)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499465">1.14</tspan></text>
+         id="tspan173972">1.14</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-2"
@@ -40331,7 +38829,7 @@
        transform="translate(206.05162,-358.00415)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499467">3.17</tspan></text>
+         id="tspan173974">3.17</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69"
@@ -40339,7 +38837,7 @@
        transform="translate(253.87718,-386.53317)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499469">0.56</tspan></text>
+         id="tspan173976">0.56</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-5"
@@ -40347,7 +38845,7 @@
        transform="translate(272.12732,-395.78324)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499471">1.18</tspan></text>
+         id="tspan173978">1.18</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-56"
@@ -40355,7 +38853,7 @@
        transform="translate(335.65026,-432.40778)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499473">0.19</tspan></text>
+         id="tspan173980">0.19</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-1"
@@ -40363,7 +38861,7 @@
        transform="translate(369.97938,-451.63412)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499475">0.25</tspan></text>
+         id="tspan173982">0.25</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-1-9"
@@ -40371,7 +38869,7 @@
        transform="translate(387.53222,-459.91259)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499477">0.09</tspan></text>
+         id="tspan173984">0.09</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-1-94"
@@ -40379,7 +38877,7 @@
        transform="translate(403.48672,-469.79943)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499479">0.27</tspan></text>
+         id="tspan173986">0.27</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-1-98"
@@ -40387,7 +38885,7 @@
        transform="translate(428.5435,-479.66473)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499481">0</tspan></text>
+         id="tspan173988">0</tspan></text>
     <text
        xml:space="preserve"
        id="text7849-0-85-3-6-1-1-4-73-69-1-2"
@@ -40395,6 +38893,411 @@
        transform="translate(437.30577,-488.80716)"><tspan
          x="245.1582"
          y="502.62872"
-         id="tspan499483">0.11</tspan></text>
+         id="tspan173990">0.11</tspan></text>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6"
+       transform="rotate(-90,393.28352,154.63681)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan173992">PNS</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-8"
+       transform="translate(-93.676086,408.64152)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-1);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan173994">PNS</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9"
+       transform="rotate(-90,410.00894,155.486)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan173996">PNS.EBI</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1"
+       transform="rotate(-90,426.39695,155.79119)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan173998">PNS.ECUR.1</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7"
+       transform="rotate(-90,434.88189,147.65634)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174000">PNS.ECUR.2</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3"
+       transform="rotate(-90,443.22491,139.22683)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174002">PNS.ECUR.3</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-8"
+       transform="rotate(-90,451.72033,130.95793)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-6);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174004">PNS.ECUR.4</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-0"
+       transform="rotate(-90,457.17481,120.60218)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-8);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174006">PNS.EPLAN</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6"
+       transform="rotate(-90,466.77611,113.43917)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174008">PNS.ERIG.1</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-7"
+       transform="rotate(-90,475.3994,105.16597)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-10-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-4);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174010">PNS.ERIG.2</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-3"
+       transform="rotate(-90,488.99637,102.10469)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-10-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-9);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174012">PNS.ETRICH.1</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-6"
+       transform="rotate(-90,498.51369,95.816458)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-10-84"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174014">PNS.SPOR.AFR</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-6-3"
+       transform="rotate(-90,510.52549,92.018598)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-10-84-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-7);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174016">PNS.SPOR.PYR</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-6-4"
+       transform="rotate(-90,547.53358,91.633097)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,279.296,-77.18648)"
+         id="text166002-8-3-0-1-4-2-10-84-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174018">NPNS</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,245.37582,-60.995441)"
+         id="text166002-8-3-0-1-4-2-10-84-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174020">NPNS.ECUR.1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,244.43296,-44.427137)"
+         id="text166002-8-3-0-1-4-2-10-84-0-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174022">NPNS.ECUR.2</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,249.26943,-27.456855)"
+         id="text166002-8-3-0-1-4-2-10-84-0-5-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-0);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174024">NPNS.EPLAN</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-5"
+       transform="translate(-111.49208,399.6277)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.67974,-58.58433)"
+         id="text166002-8-3-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-7);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174026">PNS.EBI</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-4"
+       transform="translate(-128.33003,390.08857)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.82449,-58.362892)"
+         id="text166002-8-3-0-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-7);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174028">PNS.ECUR.1</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-1"
+       transform="translate(-128.79414,379.91342)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.93851,-57.505435)"
+         id="text166002-8-3-0-1-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-3);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174030">PNS.ECUR.2</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-9"
+       transform="translate(-127.7886,371.14728)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.01946,-58.073462)"
+         id="text166002-8-3-0-1-4-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-0);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174032">PNS.ECUR.3</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-8-5"
+       transform="translate(-126.93956,361.98424)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,192.94389,-58.244589)"
+         id="text166002-8-3-0-1-4-2-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-6-2);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174034">PNS.ECUR.4</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-0-9"
+       transform="translate(-122.86162,352.99967)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,193.76724,-58.561237)"
+         id="text166002-8-3-0-1-4-2-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-8-5);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174036">PNS.EPLAN</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-60"
+       transform="translate(-126.39364,343.31109)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.86097,-58.182112)"
+         id="text166002-8-3-0-1-4-2-10-83"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-1);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174038">PNS.ERIG.1</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-7-9"
+       transform="translate(-127.12623,333.68113)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,195.24347,-57.861607)"
+         id="text166002-8-3-0-1-4-2-10-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-4-2);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174040">PNS.ERIG.2</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-3-0"
+       transform="translate(-136.44858,324.22495)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.03012,-57.72312)"
+         id="text166002-8-3-0-1-4-2-10-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-9-4);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174042">PNS.ETRICH.1</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-6-5"
+       transform="translate(-140.24854,315.48107)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.601,-58.296932)"
+         id="text166002-8-3-0-1-4-2-10-84-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-2);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174044">PNS.SPOR.AFR</tspan></text>
+    </g>
+    <g
+       style="fill:#4c4c4c;fill-opacity:1"
+       id="g45234-8-6-9-1-7-3-6-6-3-7"
+       transform="translate(-149.93469,305.83172)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.79079282,0,0,0.79079282,194.87128,-57.52593)"
+         id="text166002-8-3-0-1-4-2-10-84-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-7-6);display:inline;stroke-width:0.948415"><tspan
+           x="-41.433594"
+           y="-35.700087"
+           id="tspan174046">PNS.SPOR.PYR</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,95.001786,238.80242)"
+       id="text166002-8-3-0-1-4-2-10-84-0-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-4);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174048">NPNS</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,60.73399,229.95696)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-1);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174050">NPNS.ECUR.1</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,60.383898,220.37458)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-08);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174052">NPNS.ECUR.2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,63.965512,211.53624)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-9-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-0-3);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174054">NPNS.EPLAN</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,46.917358,173.05645)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6-2);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174056">NPNS.SPOR.PYR</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,87.343248,163.60761)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7-2-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-1);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174058">NPNS2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.79079282,0,0,0.79079282,88.075742,153.35738)"
+       id="text166002-8-3-0-1-4-2-10-84-0-5-3-7-2-0-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect166004-1-9-4-3-1-4-2-8-6-1-7-6-0-7-5);display:inline;fill:#4c4c4c;fill-opacity:1;stroke-width:0.948415"><tspan
+         x="-41.433594"
+         y="-35.700087"
+         id="tspan174060">NPNS3</tspan></text>
   </g>
 </svg>
